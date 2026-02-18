@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 from urllib.parse import urljoin, urlparse
+import feedparser
 import logging
 
 from app.core.config import BLOGS_URL, BLOGS_URL_PATH, PODCASTS_URL, PODCASTS_URL_PATH
@@ -49,6 +50,13 @@ def filter_article(path: str) -> bool:
         and len(parts) == 2
         and parts[1] not in {"archives", "author", "previous"}
     )
+
+def fetch_rss_feed():
+    feed = feedparser.parse(PODCASTS_URL)
+    if feed.boze:
+        raise RuntimeError(f"Failed to fetch RSS feed")
+
+    return feed
 
 def blog_fetcher():
     registry = load_registry(BLOGS_URL_PATH)
@@ -112,7 +120,45 @@ def blog_fetcher():
     logger.info(f"Total blogs discovered: {len(registry)}")
 
 def podcast_fetcher():
-    pass
+    registry = load_registry(PODCASTS_URL_PATH)
+    feed = fetch_rss_feed()
+
+    discovered = 0
+
+    for entry in feed.entries:
+        title = getattr(entry, "title", "Untitled Episode")
+        published = getattr(entry, "published")
+
+        audio_url = None
+        if getattr(entry, "enclosures", None):
+            audio_url = entry.enclosures[0].href
+        
+        if not audio_url:
+            continue
+
+        episode_id = getattr(entry, "id", None)
+        if not episode_id:
+            episode_id = f"Buzzsprout-{audio_url.split('/')[-1].replace('.mp3','')}"
+
+        if episode_id in registry:
+            continue
+
+        episode_url = audio_url.replace(".mp3", "")
+
+        registry[episode_id] = {
+            "episode_id": episode_id,
+            "title": title,
+            "episode_url": episode_url,
+            "audio_url": audio_url,
+            "published": published,
+            "state": "DISCOVERED",
+            "last_checked": datetime.now(timezone.utc).isoformat()
+        }
+
+        discovered += 1
+
+    save_registry(PODCASTS_URL_PATH, registry)
+    logger.info(f"Total episodes discovered: {discovered}")
 
 if __name__ == "__main__":
     blog_fetcher()
