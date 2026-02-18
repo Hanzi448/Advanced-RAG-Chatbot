@@ -1,0 +1,9 @@
+Langchain
+FastAPI
+Requests
+BeautifulSoup4
+google-genai
+chromadb
+tiktoken
+faster-whisper
+dotenv
