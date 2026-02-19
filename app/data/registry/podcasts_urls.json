@@ -5,9 +5,8 @@
     "episode_url": "https://www.buzzsprout.com/238054/episodes/17693712-episode-252-ismael-gallo-on-movement-flow-exaggeration-myths-and-long-term-athlete-development",
     "audio_url": "https://www.buzzsprout.com/238054/episodes/17693712-episode-252-ismael-gallo-on-movement-flow-exaggeration-myths-and-long-term-athlete-development.mp3",
     "published_at": "Wed, 20 Aug 2025 00:00:00 -0400",
-    "state": "TRANSCRIBED",
-    "last_checked": "2026-02-04T16:50:03.992247+00:00",
-    "version": "v1"
+    "state": "FETCHED_RAW",
+    "last_checked": "2026-02-04T16:50:03.992247+00:00"
   },
   {
     "episode_id": "Buzzsprout-17654783",
@@ -15,9 +14,8 @@
     "episode_url": "https://www.buzzsprout.com/238054/episodes/17654783-episode-251-travis-hash-on-semi-private-training-models-true-individualization-and-cutting-through-coaching-gimmicks",
     "audio_url": "https://www.buzzsprout.com/238054/episodes/17654783-episode-251-travis-hash-on-semi-private-training-models-true-individualization-and-cutting-through-coaching-gimmicks.mp3",
     "published_at": "Wed, 13 Aug 2025 00:00:00 -0400",
-    "state": "TRANSCRIBED",
-    "last_checked": "2026-02-04T16:53:47.639193+00:00",
-    "version": "v1"
+    "state": "FETCHED_RAW",
+    "last_checked": "2026-02-04T16:53:47.639193+00:00"
   },
   {
     "episode_id": "Buzzsprout-17614650",
@@ -25,8 +23,2248 @@
     "episode_url": "https://www.buzzsprout.com/238054/episodes/17614650-episode-250-antonella-schwarz-on-research-driven-coaching-caffeine-myths-and-the-real-value-of-muscle",
     "audio_url": "https://www.buzzsprout.com/238054/episodes/17614650-episode-250-antonella-schwarz-on-research-driven-coaching-caffeine-myths-and-the-real-value-of-muscle.mp3",
     "published_at": "Wed, 06 Aug 2025 00:00:00 -0400",
-    "state": "TRANSCRIBED",
-    "last_checked": "2026-02-04T17:01:08.648796+00:00",
-    "version": "v1"
+    "state": "FETCHED_RAW",
+    "last_checked": "2026-02-04T17:01:08.648796+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-17578225",
+    "title": "Episode #249 Kurt Hester on Coaching Longevity, Private Sector Lessons, and the Evolution of Strength and Conditioning",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/17578225-episode-249-kurt-hester-on-coaching-longevity-private-sector-lessons-and-the-evolution-of-strength-and-conditioning",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/17578225-episode-249-kurt-hester-on-coaching-longevity-private-sector-lessons-and-the-evolution-of-strength-and-conditioning.mp3",
+    "published_at": "Wed, 30 Jul 2025 00:00:00 -0400",
+    "state": "FETCHED_RAW",
+    "last_checked": "2026-02-19T18:15:27.147474+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-17541131",
+    "title": "Episode #248 Youth Athlete Development, Long-Term Training Systems, and Coaching Careers with Nick Serio",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/17541131-episode-248-youth-athlete-development-long-term-training-systems-and-coaching-careers-with-nick-serio",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/17541131-episode-248-youth-athlete-development-long-term-training-systems-and-coaching-careers-with-nick-serio.mp3",
+    "published_at": "Wed, 23 Jul 2025 00:00:00 -0400",
+    "state": "FETCHED_RAW",
+    "last_checked": "2026-02-19T18:15:27.148473+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-17505159",
+    "title": "Episode #247 Reducing Injury Likelihood in Athletes: Practical Strategies and Real-World Insight",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/17505159-episode-247-reducing-injury-likelihood-in-athletes-practical-strategies-and-real-world-insight",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/17505159-episode-247-reducing-injury-likelihood-in-athletes-practical-strategies-and-real-world-insight.mp3",
+    "published_at": "Wed, 16 Jul 2025 00:00:00 -0400",
+    "state": "FETCHED_RAW",
+    "last_checked": "2026-02-19T18:15:27.148473+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-17470670",
+    "title": "Episode #246 Baseball Performance, Hamstring Health, and Sprint Speed with Royals Director of Sports Performance Nick Shedd",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/17470670-episode-246-baseball-performance-hamstring-health-and-sprint-speed-with-royals-director-of-sports-performance-nick-shedd",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/17470670-episode-246-baseball-performance-hamstring-health-and-sprint-speed-with-royals-director-of-sports-performance-nick-shedd.mp3",
+    "published_at": "Wed, 09 Jul 2025 06:00:00 -0400",
+    "state": "FETCHED_RAW",
+    "last_checked": "2026-02-19T18:15:27.148473+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-17399733",
+    "title": "Episode #245 Tony Shiffman on O-Line Development, College Football, and Coaching Identity",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/17399733-episode-245-tony-shiffman-on-o-line-development-college-football-and-coaching-identity",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/17399733-episode-245-tony-shiffman-on-o-line-development-college-football-and-coaching-identity.mp3",
+    "published_at": "Thu, 26 Jun 2025 00:00:00 -0400",
+    "state": "FETCHED_RAW",
+    "last_checked": "2026-02-19T18:15:27.149473+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-17347057",
+    "title": "Episode #244 Ross Garner on Coaching Track Athletes, Hamstring Rehab, and Sprinting Mechanics",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/17347057-episode-244-ross-garner-on-coaching-track-athletes-hamstring-rehab-and-sprinting-mechanics",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/17347057-episode-244-ross-garner-on-coaching-track-athletes-hamstring-rehab-and-sprinting-mechanics.mp3",
+    "published_at": "Wed, 18 Jun 2025 00:00:00 -0400",
+    "state": "FETCHED_RAW",
+    "last_checked": "2026-02-19T18:15:27.150485+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-17313046",
+    "title": "Episode #243 Andrew Sacks on Sports Science, Data-Driven Coaching, and Building Better Athletes",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/17313046-episode-243-andrew-sacks-on-sports-science-data-driven-coaching-and-building-better-athletes",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/17313046-episode-243-andrew-sacks-on-sports-science-data-driven-coaching-and-building-better-athletes.mp3",
+    "published_at": "Wed, 11 Jun 2025 00:00:00 -0400",
+    "state": "FETCHED_RAW",
+    "last_checked": "2026-02-19T18:15:27.151485+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-17283376",
+    "title": "Episode #242 Zack Zillner on Building Resilient Athletes and Simplifying Performance",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/17283376-episode-242-zack-zillner-on-building-resilient-athletes-and-simplifying-performance",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/17283376-episode-242-zack-zillner-on-building-resilient-athletes-and-simplifying-performance.mp3",
+    "published_at": "Thu, 05 Jun 2025 00:00:00 -0400",
+    "state": "FETCHED_RAW",
+    "last_checked": "2026-02-19T18:15:37.480593+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-17234760",
+    "title": "Episode #241 Arno Rheinberger on Injury Rehab, Achilles Epidemic, and the Strength-Training Disconnect",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/17234760-episode-241-arno-rheinberger-on-injury-rehab-achilles-epidemic-and-the-strength-training-disconnect",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/17234760-episode-241-arno-rheinberger-on-injury-rehab-achilles-epidemic-and-the-strength-training-disconnect.mp3",
+    "published_at": "Wed, 28 May 2025 00:00:00 -0400",
+    "state": "FETCHED_RAW",
+    "last_checked": "2026-02-19T18:15:45.791076+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-17192944",
+    "title": "Episode #240 Culture Consistency and Coaching Beyond the Weight Room with Brijesh Patel",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/17192944-episode-240-culture-consistency-and-coaching-beyond-the-weight-room-with-brijesh-patel",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/17192944-episode-240-culture-consistency-and-coaching-beyond-the-weight-room-with-brijesh-patel.mp3",
+    "published_at": "Wed, 21 May 2025 00:00:00 -0400",
+    "state": "FETCHED_RAW",
+    "last_checked": "2026-02-19T18:15:54.389857+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-17147928",
+    "title": "Episode #239 In-Season Strength, Online Coaching Myths, and Building a Sustainable Training Model with Joe Aratari",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/17147928-episode-239-in-season-strength-online-coaching-myths-and-building-a-sustainable-training-model-with-joe-aratari",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/17147928-episode-239-in-season-strength-online-coaching-myths-and-building-a-sustainable-training-model-with-joe-aratari.mp3",
+    "published_at": "Wed, 14 May 2025 00:00:00 -0400",
+    "state": "AUDIO_DOWNLOADED",
+    "last_checked": "2026-02-19T18:21:27.857421+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-17110267",
+    "title": "Episode #238 Who You Should (and Shouldn’t) Listen to on Social Media with Pratik Patel",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/17110267-episode-238-who-you-should-and-shouldn-t-listen-to-on-social-media-with-pratik-patel",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/17110267-episode-238-who-you-should-and-shouldn-t-listen-to-on-social-media-with-pratik-patel.mp3",
+    "published_at": "Wed, 07 May 2025 00:00:00 -0400",
+    "state": "AUDIO_DOWNLOADED",
+    "last_checked": "2026-02-19T18:22:06.682692+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-17066189",
+    "title": "Episode #237 Strength, Speed, and Data-Driven Development at UCLA with Sean Swetnam",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/17066189-episode-237-strength-speed-and-data-driven-development-at-ucla-with-sean-swetnam",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/17066189-episode-237-strength-speed-and-data-driven-development-at-ucla-with-sean-swetnam.mp3",
+    "published_at": "Wed, 30 Apr 2025 00:00:00 -0400",
+    "state": "AUDIO_DOWNLOADED",
+    "last_checked": "2026-02-19T18:22:14.681492+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-17017183",
+    "title": "Episode #236 Reframing Strength, Conditioning, and Sport Culture with Malorie Henderlong",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/17017183-episode-236-reframing-strength-conditioning-and-sport-culture-with-malorie-henderlong",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/17017183-episode-236-reframing-strength-conditioning-and-sport-culture-with-malorie-henderlong.mp3",
+    "published_at": "Wed, 23 Apr 2025 00:00:00 -0400",
+    "state": "AUDIO_DOWNLOADED",
+    "last_checked": "2026-02-19T18:22:24.545950+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16977028",
+    "title": "Episode #235 Sprint Mechanics, Positional Speed Work, and High/Low Programming with Matt Gebert",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16977028-episode-235-sprint-mechanics-positional-speed-work-and-high-low-programming-with-matt-gebert",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16977028-episode-235-sprint-mechanics-positional-speed-work-and-high-low-programming-with-matt-gebert.mp3",
+    "published_at": "Wed, 16 Apr 2025 00:00:00 -0400",
+    "state": "AUDIO_DOWNLOADED",
+    "last_checked": "2026-02-19T18:22:32.287538+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16939849",
+    "title": "Episode #234 Building Speed, Absorbing Force, and Contextual Coaching with Jorge Carvajal",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16939849-episode-234-building-speed-absorbing-force-and-contextual-coaching-with-jorge-carvajal",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16939849-episode-234-building-speed-absorbing-force-and-contextual-coaching-with-jorge-carvajal.mp3",
+    "published_at": "Wed, 09 Apr 2025 00:00:00 -0400",
+    "state": "AUDIO_DOWNLOADED",
+    "last_checked": "2026-02-19T18:22:52.932863+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16891870",
+    "title": "Episode #233 Breaking Plateaus, Training Smart, and Calling Out Gimmicks with William Wayland",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16891870-episode-233-breaking-plateaus-training-smart-and-calling-out-gimmicks-with-william-wayland",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16891870-episode-233-breaking-plateaus-training-smart-and-calling-out-gimmicks-with-william-wayland.mp3",
+    "published_at": "Wed, 02 Apr 2025 00:00:00 -0400",
+    "state": "AUDIO_DOWNLOADED",
+    "last_checked": "2026-02-19T18:23:03.371352+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16857928",
+    "title": "Episode #232 Sprint Mechanics, Speed Trends, and Building Better Athletes with Justin Wickard",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16857928-episode-232-sprint-mechanics-speed-trends-and-building-better-athletes-with-justin-wickard",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16857928-episode-232-sprint-mechanics-speed-trends-and-building-better-athletes-with-justin-wickard.mp3",
+    "published_at": "Wed, 26 Mar 2025 00:00:00 -0400",
+    "state": "AUDIO_DOWNLOADED",
+    "last_checked": "2026-02-19T18:23:13.066058+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16812129",
+    "title": "Episode #231 Speed Development, Strength Training, and the Evolution of Coaching with Brad Dixon",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16812129-episode-231-speed-development-strength-training-and-the-evolution-of-coaching-with-brad-dixon",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16812129-episode-231-speed-development-strength-training-and-the-evolution-of-coaching-with-brad-dixon.mp3",
+    "published_at": "Wed, 19 Mar 2025 00:00:00 -0400",
+    "state": "AUDIO_DOWNLOADED",
+    "last_checked": "2026-02-19T18:23:20.984927+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16762151",
+    "title": "Episode #230 The Evolution of Pitching, Strength Training, and Social Media’s Impact with Ben Brewster of Tread Athletics",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16762151-episode-230-the-evolution-of-pitching-strength-training-and-social-media-s-impact-with-ben-brewster-of-tread-athletics",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16762151-episode-230-the-evolution-of-pitching-strength-training-and-social-media-s-impact-with-ben-brewster-of-tread-athletics.mp3",
+    "published_at": "Wed, 12 Mar 2025 00:00:00 -0400",
+    "state": "AUDIO_DOWNLOADED",
+    "last_checked": "2026-02-19T18:23:35.835775+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16715826",
+    "title": "Episode #229 Effective Protocol in Performance and Avoiding Gimmicks with Quentin Wiley of UNC Football",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16715826-episode-229-effective-protocol-in-performance-and-avoiding-gimmicks-with-quentin-wiley-of-unc-football",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16715826-episode-229-effective-protocol-in-performance-and-avoiding-gimmicks-with-quentin-wiley-of-unc-football.mp3",
+    "published_at": "Wed, 05 Mar 2025 10:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16679959",
+    "title": "Episode #228 The Blueprint to Building a HUGE Vertical Jump with Brandon Davis",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16679959-episode-228-the-blueprint-to-building-a-huge-vertical-jump-with-brandon-davis",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16679959-episode-228-the-blueprint-to-building-a-huge-vertical-jump-with-brandon-davis.mp3",
+    "published_at": "Wed, 26 Feb 2025 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16646915",
+    "title": "Episode #227 Maximizing Athletic Longevity and Injury Prevention with Wesley Wang",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16646915-episode-227-maximizing-athletic-longevity-and-injury-prevention-with-wesley-wang",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16646915-episode-227-maximizing-athletic-longevity-and-injury-prevention-with-wesley-wang.mp3",
+    "published_at": "Wed, 19 Feb 2025 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16604388",
+    "title": "Episode #226 In-Season Training, Speed Myths & Social Media’s Impact on Coaching with Brendan Thompson & Joseph Potts",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16604388-episode-226-in-season-training-speed-myths-social-media-s-impact-on-coaching-with-brendan-thompson-joseph-potts",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16604388-episode-226-in-season-training-speed-myths-social-media-s-impact-on-coaching-with-brendan-thompson-joseph-potts.mp3",
+    "published_at": "Wed, 12 Feb 2025 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16558403",
+    "title": "Episode #225 Everything You Need to Know About Speed Development for Athletes",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16558403-episode-225-everything-you-need-to-know-about-speed-development-for-athletes",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16558403-episode-225-everything-you-need-to-know-about-speed-development-for-athletes.mp3",
+    "published_at": "Wed, 05 Feb 2025 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16496295",
+    "title": "Episode #224 Strategies for Speed Development, Rotational Power and More with Cameron Dietz (Cincinnati Baseball)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16496295-episode-224-strategies-for-speed-development-rotational-power-and-more-with-cameron-dietz-cincinnati-baseball",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16496295-episode-224-strategies-for-speed-development-rotational-power-and-more-with-cameron-dietz-cincinnati-baseball.mp3",
+    "published_at": "Wed, 29 Jan 2025 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16458380",
+    "title": "Episode #223 How to Begin and Structure Off-Season Training with Scott Leech (URI Football)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16458380-episode-223-how-to-begin-and-structure-off-season-training-with-scott-leech-uri-football",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16458380-episode-223-how-to-begin-and-structure-off-season-training-with-scott-leech-uri-football.mp3",
+    "published_at": "Wed, 22 Jan 2025 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16425654",
+    "title": "Episode #222 How Performance Training Has Changed and What it Means with AJ Blue (UNC Football S&C)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16425654-episode-222-how-performance-training-has-changed-and-what-it-means-with-aj-blue-unc-football-s-c",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16425654-episode-222-how-performance-training-has-changed-and-what-it-means-with-aj-blue-unc-football-s-c.mp3",
+    "published_at": "Wed, 15 Jan 2025 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16387571",
+    "title": "Episode #221 Speed Development for Team Sports with Matt Talarico (Chicago Cubs)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16387571-episode-221-speed-development-for-team-sports-with-matt-talarico-chicago-cubs",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16387571-episode-221-speed-development-for-team-sports-with-matt-talarico-chicago-cubs.mp3",
+    "published_at": "Wed, 08 Jan 2025 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16349902",
+    "title": "Episode #220 The Roadmap for Athletic Development with Deven Morgan of Driveline Baseball",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16349902-episode-220-the-roadmap-for-athletic-development-with-deven-morgan-of-driveline-baseball",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16349902-episode-220-the-roadmap-for-athletic-development-with-deven-morgan-of-driveline-baseball.mp3",
+    "published_at": "Thu, 02 Jan 2025 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16330459",
+    "title": "Episode #219 Why Athletes Need to STOP Training Like Bodybuilders with Jeff Lo Vecchio",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16330459-episode-219-why-athletes-need-to-stop-training-like-bodybuilders-with-jeff-lo-vecchio",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16330459-episode-219-why-athletes-need-to-stop-training-like-bodybuilders-with-jeff-lo-vecchio.mp3",
+    "published_at": "Thu, 26 Dec 2024 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16279458",
+    "title": "Episode #218 Building a Quality Sports Performance Program with Chris Martin (LSU Baseball)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16279458-episode-218-building-a-quality-sports-performance-program-with-chris-martin-lsu-baseball",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16279458-episode-218-building-a-quality-sports-performance-program-with-chris-martin-lsu-baseball.mp3",
+    "published_at": "Wed, 18 Dec 2024 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16237914",
+    "title": "Episode #217 Training Athletes To Run Sub 4.3 Second 40 Yard Dashes With Tony Villani",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16237914-episode-217-training-athletes-to-run-sub-4-3-second-40-yard-dashes-with-tony-villani",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16237914-episode-217-training-athletes-to-run-sub-4-3-second-40-yard-dashes-with-tony-villani.mp3",
+    "published_at": "Wed, 11 Dec 2024 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16185708",
+    "title": "Episode #216 Elevating Athletic Development with Marc Lobliner",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16185708-episode-216-elevating-athletic-development-with-marc-lobliner",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16185708-episode-216-elevating-athletic-development-with-marc-lobliner.mp3",
+    "published_at": "Wed, 04 Dec 2024 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-16178884",
+    "title": "Episode #215 Evolving Mindsets for Effective Speed Development with Tony Holler",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/16178884-episode-215-evolving-mindsets-for-effective-speed-development-with-tony-holler",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/16178884-episode-215-evolving-mindsets-for-effective-speed-development-with-tony-holler.mp3",
+    "published_at": "Wed, 27 Nov 2024 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-11573338",
+    "title": "Episode #214 Deciding on Organizing Training Splits, Recovery Days & More!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/11573338-episode-214-deciding-on-organizing-training-splits-recovery-days-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/11573338-episode-214-deciding-on-organizing-training-splits-recovery-days-more.mp3",
+    "published_at": "Thu, 27 Oct 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-11530318",
+    "title": "Episode #213 My Take on the “Top 10,” Most Important Things for Athletes",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/11530318-episode-213-my-take-on-the-top-10-most-important-things-for-athletes",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/11530318-episode-213-my-take-on-the-top-10-most-important-things-for-athletes.mp3",
+    "published_at": "Wed, 19 Oct 2022 12:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-11444339",
+    "title": "Episode #212 Educating Coaches on Conditioning, Rep Ranges More Likely to Make You Sore and Habits of High Level Athletes",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/11444339-episode-212-educating-coaches-on-conditioning-rep-ranges-more-likely-to-make-you-sore-and-habits-of-high-level-athletes",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/11444339-episode-212-educating-coaches-on-conditioning-rep-ranges-more-likely-to-make-you-sore-and-habits-of-high-level-athletes.mp3",
+    "published_at": "Thu, 06 Oct 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-11401278",
+    "title": "Episode #211 Debut of OnlyStrength, 30-Yard Sprints for Baseball and 12 Inch Vertical Jump Improvement in Two Years!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/11401278-episode-211-debut-of-onlystrength-30-yard-sprints-for-baseball-and-12-inch-vertical-jump-improvement-in-two-years",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/11401278-episode-211-debut-of-onlystrength-30-yard-sprints-for-baseball-and-12-inch-vertical-jump-improvement-in-two-years.mp3",
+    "published_at": "Thu, 29 Sep 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-11360685",
+    "title": "Episode #210 Mobility Training Circuits, Application of Speed Ladders and Essentials of Acceleration",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/11360685-episode-210-mobility-training-circuits-application-of-speed-ladders-and-essentials-of-acceleration",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/11360685-episode-210-mobility-training-circuits-application-of-speed-ladders-and-essentials-of-acceleration.mp3",
+    "published_at": "Thu, 22 Sep 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-11319414",
+    "title": "Episode #209 Tips for Training Large Teams, Assessing Needs to Improve Speed and Recovery Circuits",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/11319414-episode-209-tips-for-training-large-teams-assessing-needs-to-improve-speed-and-recovery-circuits",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/11319414-episode-209-tips-for-training-large-teams-assessing-needs-to-improve-speed-and-recovery-circuits.mp3",
+    "published_at": "Thu, 15 Sep 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-11280167",
+    "title": "Episode #208 Conditioning for Baseball, Training Your Feet and Ankles and Importance of Intent in Training",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/11280167-episode-208-conditioning-for-baseball-training-your-feet-and-ankles-and-importance-of-intent-in-training",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/11280167-episode-208-conditioning-for-baseball-training-your-feet-and-ankles-and-importance-of-intent-in-training.mp3",
+    "published_at": "Thu, 08 Sep 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-11236719",
+    "title": "Episode #207 Three CRUCIAL Questions to Ask to Ensure the Quality of a Strength Coach",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/11236719-episode-207-three-crucial-questions-to-ask-to-ensure-the-quality-of-a-strength-coach",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/11236719-episode-207-three-crucial-questions-to-ask-to-ensure-the-quality-of-a-strength-coach.mp3",
+    "published_at": "Thu, 01 Sep 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-11155187",
+    "title": "Episode #206 Can you \"Teach,\" Speed, Using Ice as an Athlete and Volume Prescriptions for Depth Jumps",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/11155187-episode-206-can-you-teach-speed-using-ice-as-an-athlete-and-volume-prescriptions-for-depth-jumps",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/11155187-episode-206-can-you-teach-speed-using-ice-as-an-athlete-and-volume-prescriptions-for-depth-jumps.mp3",
+    "published_at": "Thu, 18 Aug 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-11121608",
+    "title": "Episode #205 Why Cross Country is NOT ideal for Most Athletes, More NFL Training and Strength Coach Drama and Contrast Training",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/11121608-episode-205-why-cross-country-is-not-ideal-for-most-athletes-more-nfl-training-and-strength-coach-drama-and-contrast-training",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/11121608-episode-205-why-cross-country-is-not-ideal-for-most-athletes-more-nfl-training-and-strength-coach-drama-and-contrast-training.mp3",
+    "published_at": "Thu, 11 Aug 2022 09:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-11077883",
+    "title": "Episode #204 Why Pro Athletes Aren't Always Great Examples for Good Training, Utilizing Physical Therapists and a Hierarchy for Sports Performance",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/11077883-episode-204-why-pro-athletes-aren-t-always-great-examples-for-good-training-utilizing-physical-therapists-and-a-hierarchy-for-sports-performance",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/11077883-episode-204-why-pro-athletes-aren-t-always-great-examples-for-good-training-utilizing-physical-therapists-and-a-hierarchy-for-sports-performance.mp3",
+    "published_at": "Thu, 04 Aug 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-11040359",
+    "title": "Episode #203 Making Gains In-Season, Intra Game Warm-ups, Achieving Body Angles in Acceleration and Training with The Los Angeles Rams",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/11040359-episode-203-making-gains-in-season-intra-game-warm-ups-achieving-body-angles-in-acceleration-and-training-with-the-los-angeles-rams",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/11040359-episode-203-making-gains-in-season-intra-game-warm-ups-achieving-body-angles-in-acceleration-and-training-with-the-los-angeles-rams.mp3",
+    "published_at": "Thu, 28 Jul 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-11001858",
+    "title": "Episode #202 Creatine Monohydrate, Dealing with Athletes and Different Coaches In-Season, More Pro Athlete Training Eye Wash and More!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/11001858-episode-202-creatine-monohydrate-dealing-with-athletes-and-different-coaches-in-season-more-pro-athlete-training-eye-wash-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/11001858-episode-202-creatine-monohydrate-dealing-with-athletes-and-different-coaches-in-season-more-pro-athlete-training-eye-wash-and-more.mp3",
+    "published_at": "Thu, 21 Jul 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10958559",
+    "title": "Episode #201 Where to Start with Your Speed Training, 5 Things You MUST Have in Your Speed Training and More!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10958559-episode-201-where-to-start-with-your-speed-training-5-things-you-must-have-in-your-speed-training-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10958559-episode-201-where-to-start-with-your-speed-training-5-things-you-must-have-in-your-speed-training-and-more.mp3",
+    "published_at": "Thu, 14 Jul 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10877111",
+    "title": "Episode #200 The Five BEST Episodes of All Time, Should we \"Ditch,\" Back Squats and Agility Training with NFL Running Back Travis Etienne",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10877111-episode-200-the-five-best-episodes-of-all-time-should-we-ditch-back-squats-and-agility-training-with-nfl-running-back-travis-etienne",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10877111-episode-200-the-five-best-episodes-of-all-time-should-we-ditch-back-squats-and-agility-training-with-nfl-running-back-travis-etienne.mp3",
+    "published_at": "Thu, 30 Jun 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10839585",
+    "title": "Episode #199 Rep Ranges for The Early Off-season, Judging Coaches by Social Media Following and Importance of Averages When Testing Athletes",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10839585-episode-199-rep-ranges-for-the-early-off-season-judging-coaches-by-social-media-following-and-importance-of-averages-when-testing-athletes",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10839585-episode-199-rep-ranges-for-the-early-off-season-judging-coaches-by-social-media-following-and-importance-of-averages-when-testing-athletes.mp3",
+    "published_at": "Thu, 23 Jun 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10722784",
+    "title": "Episode #198 Recovery Days, High Performance in Pro and College Sports and Thoughts on Christian McCaffrey's Training",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10722784-episode-198-recovery-days-high-performance-in-pro-and-college-sports-and-thoughts-on-christian-mccaffrey-s-training",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10722784-episode-198-recovery-days-high-performance-in-pro-and-college-sports-and-thoughts-on-christian-mccaffrey-s-training.mp3",
+    "published_at": "Thu, 02 Jun 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10643680",
+    "title": "Episode #197 Prioritizing Speed Training, Upper Body Training for Throwers and Improving Specific Aspects of Your Sprint",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10643680-episode-197-prioritizing-speed-training-upper-body-training-for-throwers-and-improving-specific-aspects-of-your-sprint",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10643680-episode-197-prioritizing-speed-training-upper-body-training-for-throwers-and-improving-specific-aspects-of-your-sprint.mp3",
+    "published_at": "Thu, 19 May 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10603705",
+    "title": "Episode #196 Implementing Systems as a Coach to Optimize Athletic Development with Kyle Boddy",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10603705-episode-196-implementing-systems-as-a-coach-to-optimize-athletic-development-with-kyle-boddy",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10603705-episode-196-implementing-systems-as-a-coach-to-optimize-athletic-development-with-kyle-boddy.mp3",
+    "published_at": "Thu, 12 May 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10561660",
+    "title": "Episode #195 ACL Rehabilitation, Return to Sport and More with Edwin Porras",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10561660-episode-195-acl-rehabilitation-return-to-sport-and-more-with-edwin-porras",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10561660-episode-195-acl-rehabilitation-return-to-sport-and-more-with-edwin-porras.mp3",
+    "published_at": "Thu, 05 May 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10518363",
+    "title": "Episode #194 Turning Athletes into Assistant Coaches, Real Core Training, Workouts around Pro Sports and More!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10518363-episode-194-turning-athletes-into-assistant-coaches-real-core-training-workouts-around-pro-sports-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10518363-episode-194-turning-athletes-into-assistant-coaches-real-core-training-workouts-around-pro-sports-and-more.mp3",
+    "published_at": "Thu, 28 Apr 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10476284",
+    "title": "Episode #193 Patrick Mahomes’ Training, Why The 60-Yard Dash Should be Extinct, Training Splits and More!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10476284-episode-193-patrick-mahomes-training-why-the-60-yard-dash-should-be-extinct-training-splits-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10476284-episode-193-patrick-mahomes-training-why-the-60-yard-dash-should-be-extinct-training-splits-and-more.mp3",
+    "published_at": "Thu, 21 Apr 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10433389",
+    "title": "Episode #192 Energy System Debates, Strength Training's Role in Jumping and Aaron Donald's Most Recent Training Videos",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10433389-episode-192-energy-system-debates-strength-training-s-role-in-jumping-and-aaron-donald-s-most-recent-training-videos",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10433389-episode-192-energy-system-debates-strength-training-s-role-in-jumping-and-aaron-donald-s-most-recent-training-videos.mp3",
+    "published_at": "Thu, 14 Apr 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10349845",
+    "title": "Episode #191 How Should You Order and Structure Your Training?",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10349845-episode-191-how-should-you-order-and-structure-your-training",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10349845-episode-191-how-should-you-order-and-structure-your-training.mp3",
+    "published_at": "Thu, 31 Mar 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10306672",
+    "title": "Episode #190 Everything You Need to Know About Load Management In-Season",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10306672-episode-190-everything-you-need-to-know-about-load-management-in-season",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10306672-episode-190-everything-you-need-to-know-about-load-management-in-season.mp3",
+    "published_at": "Thu, 24 Mar 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10263922",
+    "title": "Episode #189 Progressing to Power Based Training as Athletes Advance and What You Need to Know About Loading, Intention and Repetitions!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10263922-episode-189-progressing-to-power-based-training-as-athletes-advance-and-what-you-need-to-know-about-loading-intention-and-repetitions",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10263922-episode-189-progressing-to-power-based-training-as-athletes-advance-and-what-you-need-to-know-about-loading-intention-and-repetitions.mp3",
+    "published_at": "Thu, 17 Mar 2022 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10214459",
+    "title": "Episode #188 All Things Speed Training and Development: Speed Q&A Answering YOUR Questions",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10214459-episode-188-all-things-speed-training-and-development-speed-q-a-answering-your-questions",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10214459-episode-188-all-things-speed-training-and-development-speed-q-a-answering-your-questions.mp3",
+    "published_at": "Wed, 09 Mar 2022 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10170330",
+    "title": "Episode #187 Why Transferability to Sport in Strength and Speed Training is a Better Mindset Than “Specificity,” to Sport",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10170330-episode-187-why-transferability-to-sport-in-strength-and-speed-training-is-a-better-mindset-than-specificity-to-sport",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10170330-episode-187-why-transferability-to-sport-in-strength-and-speed-training-is-a-better-mindset-than-specificity-to-sport.mp3",
+    "published_at": "Wed, 02 Mar 2022 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10125694",
+    "title": "Episode #186 Using Social Media to Build a Brand as Both a Coach AND Athlete",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10125694-episode-186-using-social-media-to-build-a-brand-as-both-a-coach-and-athlete",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10125694-episode-186-using-social-media-to-build-a-brand-as-both-a-coach-and-athlete.mp3",
+    "published_at": "Wed, 23 Feb 2022 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-10039147",
+    "title": "Episode #185 Strength Training and Speed Development… When are You “Strong Enough?”",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/10039147-episode-185-strength-training-and-speed-development-when-are-you-strong-enough",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/10039147-episode-185-strength-training-and-speed-development-when-are-you-strong-enough.mp3",
+    "published_at": "Wed, 09 Feb 2022 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9995438",
+    "title": "Episode #184 Everything You Need to Know About Building a Training Cycle: Scheduling. Programming and More!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9995438-episode-184-everything-you-need-to-know-about-building-a-training-cycle-scheduling-programming-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9995438-episode-184-everything-you-need-to-know-about-building-a-training-cycle-scheduling-programming-and-more.mp3",
+    "published_at": "Wed, 02 Feb 2022 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9953223",
+    "title": "Episode #183 Loaded Sled Sprints: Moving Slower to Get Faster",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9953223-episode-183-loaded-sled-sprints-moving-slower-to-get-faster",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9953223-episode-183-loaded-sled-sprints-moving-slower-to-get-faster.mp3",
+    "published_at": "Wed, 26 Jan 2022 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9910709",
+    "title": "Episode #182 Your Guide to In-Season Training: Scheduling, Programming and More!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9910709-episode-182-your-guide-to-in-season-training-scheduling-programming-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9910709-episode-182-your-guide-to-in-season-training-scheduling-programming-and-more.mp3",
+    "published_at": "Wed, 19 Jan 2022 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9871040",
+    "title": "Episode #181 Easy to Understand and Applicable: The Basics of Velocity Based Training Explained",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9871040-episode-181-easy-to-understand-and-applicable-the-basics-of-velocity-based-training-explained",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9871040-episode-181-easy-to-understand-and-applicable-the-basics-of-velocity-based-training-explained.mp3",
+    "published_at": "Wed, 12 Jan 2022 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9832574",
+    "title": "Episode #180 What You Should Look For When Training for Agility with Athletes",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9832574-episode-180-what-you-should-look-for-when-training-for-agility-with-athletes",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9832574-episode-180-what-you-should-look-for-when-training-for-agility-with-athletes.mp3",
+    "published_at": "Wed, 05 Jan 2022 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9800361",
+    "title": "Episode #179 The Science Behind and How to Use Depth Jumps",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9800361-episode-179-the-science-behind-and-how-to-use-depth-jumps",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9800361-episode-179-the-science-behind-and-how-to-use-depth-jumps.mp3",
+    "published_at": "Wed, 29 Dec 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9719812",
+    "title": "Episode #178 Power Cleans and Exercise Selection and Building Quality Strength Coaches Beyond Certifications with Cody Hughes",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9719812-episode-178-power-cleans-and-exercise-selection-and-building-quality-strength-coaches-beyond-certifications-with-cody-hughes",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9719812-episode-178-power-cleans-and-exercise-selection-and-building-quality-strength-coaches-beyond-certifications-with-cody-hughes.mp3",
+    "published_at": "Wed, 15 Dec 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9680994",
+    "title": "Episode #177- How You Can Divide Your Lower Body Training to Further Zone in on Speed as an Athlete Progresses",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9680994-episode-177-how-you-can-divide-your-lower-body-training-to-further-zone-in-on-speed-as-an-athlete-progresses",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9680994-episode-177-how-you-can-divide-your-lower-body-training-to-further-zone-in-on-speed-as-an-athlete-progresses.mp3",
+    "published_at": "Wed, 08 Dec 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9644882",
+    "title": "Episode #176 Core Training For Rotational Athletes and Why Visible Abs are Overrated for Athletes",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9644882-episode-176-core-training-for-rotational-athletes-and-why-visible-abs-are-overrated-for-athletes",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9644882-episode-176-core-training-for-rotational-athletes-and-why-visible-abs-are-overrated-for-athletes.mp3",
+    "published_at": "Wed, 01 Dec 2021 12:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9559805",
+    "title": "Episode #175 Q&A (The Debate on Power Cleans, Creating Good Weight Room Culture and Strength Testing for Athletes)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9559805-episode-175-q-a-the-debate-on-power-cleans-creating-good-weight-room-culture-and-strength-testing-for-athletes",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9559805-episode-175-q-a-the-debate-on-power-cleans-creating-good-weight-room-culture-and-strength-testing-for-athletes.mp3",
+    "published_at": "Wed, 17 Nov 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9522133",
+    "title": "Episode #174 Keto Diets, Fast Food as a Last Resort and More Nutritional Topics with Julian Lo Casto",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9522133-episode-174-keto-diets-fast-food-as-a-last-resort-and-more-nutritional-topics-with-julian-lo-casto",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9522133-episode-174-keto-diets-fast-food-as-a-last-resort-and-more-nutritional-topics-with-julian-lo-casto.mp3",
+    "published_at": "Wed, 10 Nov 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9480612",
+    "title": "Episode #173 Owning The Off-Season with Bill Miller",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9480612-episode-173-owning-the-off-season-with-bill-miller",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9480612-episode-173-owning-the-off-season-with-bill-miller.mp3",
+    "published_at": "Wed, 03 Nov 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9439930",
+    "title": "Episode #172 The Importance of Having Plan and Process When Developing Athletes with Chad Longworth",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9439930-episode-172-the-importance-of-having-plan-and-process-when-developing-athletes-with-chad-longworth",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9439930-episode-172-the-importance-of-having-plan-and-process-when-developing-athletes-with-chad-longworth.mp3",
+    "published_at": "Wed, 27 Oct 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9364739",
+    "title": "Episode #171 Things to Consider for Acceleration and Agility Training with Andrew Spruill",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9364739-episode-171-things-to-consider-for-acceleration-and-agility-training-with-andrew-spruill",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9364739-episode-171-things-to-consider-for-acceleration-and-agility-training-with-andrew-spruill.mp3",
+    "published_at": "Wed, 13 Oct 2021 18:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9318656",
+    "title": "Episode #170 Talking Shop About Speed Development, Coaching and Acceleration vs. Top Speed with Ryan Banta",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9318656-episode-170-talking-shop-about-speed-development-coaching-and-acceleration-vs-top-speed-with-ryan-banta",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9318656-episode-170-talking-shop-about-speed-development-coaching-and-acceleration-vs-top-speed-with-ryan-banta.mp3",
+    "published_at": "Wed, 06 Oct 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.016838+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9283790",
+    "title": "Episode #169 Sounding off on Various Topics in Training and Performance with Max Schmarzo (Strong By Science)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9283790-episode-169-sounding-off-on-various-topics-in-training-and-performance-with-max-schmarzo-strong-by-science",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9283790-episode-169-sounding-off-on-various-topics-in-training-and-performance-with-max-schmarzo-strong-by-science.mp3",
+    "published_at": "Wed, 29 Sep 2021 20:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9238107",
+    "title": "Episode #168 Nick DiMarco on The Current State of Conditioning Tests in Professional Sports and Using High Depth Jumps to Build a MASSIVE Vertical Jump!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9238107-episode-168-nick-dimarco-on-the-current-state-of-conditioning-tests-in-professional-sports-and-using-high-depth-jumps-to-build-a-massive-vertical-jump",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9238107-episode-168-nick-dimarco-on-the-current-state-of-conditioning-tests-in-professional-sports-and-using-high-depth-jumps-to-build-a-massive-vertical-jump.mp3",
+    "published_at": "Wed, 22 Sep 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9160082",
+    "title": "Episode #167 HUGE Q&A Part 2: Aerobic vs. Anaerobic Conditioning, Advice to Build Speed, Intermittent Fasting for Athletes and MORE!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9160082-episode-167-huge-q-a-part-2-aerobic-vs-anaerobic-conditioning-advice-to-build-speed-intermittent-fasting-for-athletes-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9160082-episode-167-huge-q-a-part-2-aerobic-vs-anaerobic-conditioning-advice-to-build-speed-intermittent-fasting-for-athletes-and-more.mp3",
+    "published_at": "Wed, 08 Sep 2021 11:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9119424",
+    "title": "Episode #166 Using Heavy Sled Pushes to Build Faster and More Explosive Athletes with Joseph Potts",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9119424-episode-166-using-heavy-sled-pushes-to-build-faster-and-more-explosive-athletes-with-joseph-potts",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9119424-episode-166-using-heavy-sled-pushes-to-build-faster-and-more-explosive-athletes-with-joseph-potts.mp3",
+    "published_at": "Wed, 01 Sep 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9082076",
+    "title": "Episode #165 Massive Q&A- Volume for Plyometrics, Programming Multiple Speed Days, Acceleration and More!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9082076-episode-165-massive-q-a-volume-for-plyometrics-programming-multiple-speed-days-acceleration-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9082076-episode-165-massive-q-a-volume-for-plyometrics-programming-multiple-speed-days-acceleration-and-more.mp3",
+    "published_at": "Wed, 25 Aug 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9043323",
+    "title": "Episode #164 Optimizing Programming and Training Environment in a Large Team Setting with Pat Basil",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9043323-episode-164-optimizing-programming-and-training-environment-in-a-large-team-setting-with-pat-basil",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9043323-episode-164-optimizing-programming-and-training-environment-in-a-large-team-setting-with-pat-basil.mp3",
+    "published_at": "Wed, 18 Aug 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-9009182",
+    "title": "Episode #163 Optimizing Energy Systems for Team-Sport Athletes with Terrence Kennell",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/9009182-episode-163-optimizing-energy-systems-for-team-sport-athletes-with-terrence-kennell",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/9009182-episode-163-optimizing-energy-systems-for-team-sport-athletes-with-terrence-kennell.mp3",
+    "published_at": "Wed, 11 Aug 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8838708",
+    "title": "Episode #162 The Art of Acceleration with Lester Spellman",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8838708-episode-162-the-art-of-acceleration-with-lester-spellman",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8838708-episode-162-the-art-of-acceleration-with-lester-spellman.mp3",
+    "published_at": "Wed, 28 Jul 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8838681",
+    "title": "Episode #161 Building Better Athletes with DJ Edwards of Push Performance",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8838681-episode-161-building-better-athletes-with-dj-edwards-of-push-performance",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8838681-episode-161-building-better-athletes-with-dj-edwards-of-push-performance.mp3",
+    "published_at": "Wed, 21 Jul 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8838669",
+    "title": "Episode #160 Blending S&C into Pitching Development with Rice Pitching Coach Colter Bostick",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8838669-episode-160-blending-s-c-into-pitching-development-with-rice-pitching-coach-colter-bostick",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8838669-episode-160-blending-s-c-into-pitching-development-with-rice-pitching-coach-colter-bostick.mp3",
+    "published_at": "Wed, 14 Jul 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8815547",
+    "title": "Episode #159 Determining Effectiveness and Performance of S&C Coaches with USF Director of Football Strength and Conditioning AJ Artis",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8815547-episode-159-determining-effectiveness-and-performance-of-s-c-coaches-with-usf-director-of-football-strength-and-conditioning-aj-artis",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8815547-episode-159-determining-effectiveness-and-performance-of-s-c-coaches-with-usf-director-of-football-strength-and-conditioning-aj-artis.mp3",
+    "published_at": "Wed, 07 Jul 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8789302",
+    "title": "Episode #158 Breaking the Myths of Youth Resistance Training with Travis Mash",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8789302-episode-158-breaking-the-myths-of-youth-resistance-training-with-travis-mash",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8789302-episode-158-breaking-the-myths-of-youth-resistance-training-with-travis-mash.mp3",
+    "published_at": "Wed, 30 Jun 2021 10:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8748518",
+    "title": "Episode #157 Rotational Power Development with Bill Miller",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8748518-episode-157-rotational-power-development-with-bill-miller",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8748518-episode-157-rotational-power-development-with-bill-miller.mp3",
+    "published_at": "Wed, 23 Jun 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8574634",
+    "title": "Episode #156 Speed Development, Making Cultural Changes to Team-Sport Conditioning and More with Rob Assise",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8574634-episode-156-speed-development-making-cultural-changes-to-team-sport-conditioning-and-more-with-rob-assise",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8574634-episode-156-speed-development-making-cultural-changes-to-team-sport-conditioning-and-more-with-rob-assise.mp3",
+    "published_at": "Wed, 09 Jun 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8574623",
+    "title": "Episode #155 Team Settings for Strength and Conditioning, Assessments and Training Technology with Mark Hoover",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8574623-episode-155-team-settings-for-strength-and-conditioning-assessments-and-training-technology-with-mark-hoover",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8574623-episode-155-team-settings-for-strength-and-conditioning-assessments-and-training-technology-with-mark-hoover.mp3",
+    "published_at": "Wed, 02 Jun 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8574596",
+    "title": "Episode 154 Grant Darnell: Air Force Special Ops. Head of Strength and Conditioning",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8574596-episode-154-grant-darnell-air-force-special-ops-head-of-strength-and-conditioning",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8574596-episode-154-grant-darnell-air-force-special-ops-head-of-strength-and-conditioning.mp3",
+    "published_at": "Wed, 26 May 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8446671",
+    "title": "Episode #153 Mental Health and Improving Athlete Performance with Philadelphia Phillies' Mental Skills Coach Hannah Huesman",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8446671-episode-153-mental-health-and-improving-athlete-performance-with-philadelphia-phillies-mental-skills-coach-hannah-huesman",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8446671-episode-153-mental-health-and-improving-athlete-performance-with-philadelphia-phillies-mental-skills-coach-hannah-huesman.mp3",
+    "published_at": "Wed, 19 May 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8446664",
+    "title": "Episode #152 The Process and Journey from 88 to 95 mph with ETSU Pitcher Hunter Townsend",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8446664-episode-152-the-process-and-journey-from-88-to-95-mph-with-etsu-pitcher-hunter-townsend",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8446664-episode-152-the-process-and-journey-from-88-to-95-mph-with-etsu-pitcher-hunter-townsend.mp3",
+    "published_at": "Wed, 12 May 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8446660",
+    "title": "Episode #151 Balancing Weight Gain and Continued Speed and Power Improvements with Cal Football's Brian Johnson",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8446660-episode-151-balancing-weight-gain-and-continued-speed-and-power-improvements-with-cal-football-s-brian-johnson",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8446660-episode-151-balancing-weight-gain-and-continued-speed-and-power-improvements-with-cal-football-s-brian-johnson.mp3",
+    "published_at": "Wed, 05 May 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8331408",
+    "title": "Episode #150 Preparing Contact Sport Athletes with University of Maryland Football Director of Sports Performance Ryan Davis",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8331408-episode-150-preparing-contact-sport-athletes-with-university-of-maryland-football-director-of-sports-performance-ryan-davis",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8331408-episode-150-preparing-contact-sport-athletes-with-university-of-maryland-football-director-of-sports-performance-ryan-davis.mp3",
+    "published_at": "Wed, 28 Apr 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8331401",
+    "title": "Episode #149 How We \"Made Gerry Ripped Again,\" with Julian LoCasto",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8331401-episode-149-how-we-made-gerry-ripped-again-with-julian-locasto",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8331401-episode-149-how-we-made-gerry-ripped-again-with-julian-locasto.mp3",
+    "published_at": "Wed, 21 Apr 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8330892",
+    "title": "Episode #148 Effectively Implementing and Leading Athletes BEYOND Programming with Pratik Patel",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8330892-episode-148-effectively-implementing-and-leading-athletes-beyond-programming-with-pratik-patel",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8330892-episode-148-effectively-implementing-and-leading-athletes-beyond-programming-with-pratik-patel.mp3",
+    "published_at": "Wed, 14 Apr 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-7663807",
+    "title": "Episode #147 Optimizing Training in Team Settings with Daniel Guzman",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/7663807-episode-147-optimizing-training-in-team-settings-with-daniel-guzman",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/7663807-episode-147-optimizing-training-in-team-settings-with-daniel-guzman.mp3",
+    "published_at": "Wed, 07 Apr 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-7660288",
+    "title": "Episode #146 Everything You Can Do to Get Faster That Doesn't Involve Sprinting with Brendan Thompson and Mike Whiteman",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/7660288-episode-146-everything-you-can-do-to-get-faster-that-doesn-t-involve-sprinting-with-brendan-thompson-and-mike-whiteman",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/7660288-episode-146-everything-you-can-do-to-get-faster-that-doesn-t-involve-sprinting-with-brendan-thompson-and-mike-whiteman.mp3",
+    "published_at": "Wed, 31 Mar 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8064859",
+    "title": "Episode #145 Kevin Poppe: Stop Bitching… How to Add Value to What Strength and Conditioning Coaches Provide and Elevate Our Field",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8064859-episode-145-kevin-poppe-stop-bitching-how-to-add-value-to-what-strength-and-conditioning-coaches-provide-and-elevate-our-field",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8064859-episode-145-kevin-poppe-stop-bitching-how-to-add-value-to-what-strength-and-conditioning-coaches-provide-and-elevate-our-field.mp3",
+    "published_at": "Wed, 24 Mar 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8064625",
+    "title": "Episode #144 Why Training May Be a Better Word Than Rehab with Kelly Starrett",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8064625-episode-144-why-training-may-be-a-better-word-than-rehab-with-kelly-starrett",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8064625-episode-144-why-training-may-be-a-better-word-than-rehab-with-kelly-starrett.mp3",
+    "published_at": "Wed, 17 Mar 2021 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8061009",
+    "title": "Episode #143 Everything You Need to Know About Creatine with Wendi Irlbeck",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8061009-episode-143-everything-you-need-to-know-about-creatine-with-wendi-irlbeck",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8061009-episode-143-everything-you-need-to-know-about-creatine-with-wendi-irlbeck.mp3",
+    "published_at": "Wed, 10 Mar 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-8060991",
+    "title": "Episode #142 Joint Specific Training and Differing Demands of Each Leg for Rotational Athletes with Rob Hill and Steffan Jones",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/8060991-episode-142-joint-specific-training-and-differing-demands-of-each-leg-for-rotational-athletes-with-rob-hill-and-steffan-jones",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/8060991-episode-142-joint-specific-training-and-differing-demands-of-each-leg-for-rotational-athletes-with-rob-hill-and-steffan-jones.mp3",
+    "published_at": "Wed, 03 Mar 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-7464337",
+    "title": "Episode #141 Jason Ochart: Creating Hitting Training Environments That Actually Prepare Hitters for Competition",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/7464337-episode-141-jason-ochart-creating-hitting-training-environments-that-actually-prepare-hitters-for-competition",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/7464337-episode-141-jason-ochart-creating-hitting-training-environments-that-actually-prepare-hitters-for-competition.mp3",
+    "published_at": "Wed, 24 Feb 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-7463818",
+    "title": "Episode #140 Dean Jackson: Everything to Know About Transferability and Specificity of Strength Training for Pitchers",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/7463818-episode-140-dean-jackson-everything-to-know-about-transferability-and-specificity-of-strength-training-for-pitchers",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/7463818-episode-140-dean-jackson-everything-to-know-about-transferability-and-specificity-of-strength-training-for-pitchers.mp3",
+    "published_at": "Wed, 17 Feb 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-7524187",
+    "title": "Episode #139 Programming: Individualization, Specification, Planning and Timing to Build Better Athletes with Zach Dechant",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/7524187-episode-139-programming-individualization-specification-planning-and-timing-to-build-better-athletes-with-zach-dechant",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/7524187-episode-139-programming-individualization-specification-planning-and-timing-to-build-better-athletes-with-zach-dechant.mp3",
+    "published_at": "Wed, 10 Feb 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-7375003",
+    "title": "Episode #138 Philadelphia Phillies Minor League Pitching Coach Pat Robles: Skill Acquisition and Blending Skill Development and S&C for Pitchers",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/7375003-episode-138-philadelphia-phillies-minor-league-pitching-coach-pat-robles-skill-acquisition-and-blending-skill-development-and-s-c-for-pitchers",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/7375003-episode-138-philadelphia-phillies-minor-league-pitching-coach-pat-robles-skill-acquisition-and-blending-skill-development-and-s-c-for-pitchers.mp3",
+    "published_at": "Wed, 03 Feb 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-7374946",
+    "title": "Episode #137 Emily Bogaudo (RD): Protein Intake, The Impact of Alcohol on Nutrition and Reverse Dieting",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/7374946-episode-137-emily-bogaudo-rd-protein-intake-the-impact-of-alcohol-on-nutrition-and-reverse-dieting",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/7374946-episode-137-emily-bogaudo-rd-protein-intake-the-impact-of-alcohol-on-nutrition-and-reverse-dieting.mp3",
+    "published_at": "Wed, 27 Jan 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-7374904",
+    "title": "Episode #136 The Complete Process of Hitting Assessments and S&C for Baseball Players with Jeff Leach",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/7374904-episode-136-the-complete-process-of-hitting-assessments-and-s-c-for-baseball-players-with-jeff-leach",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/7374904-episode-136-the-complete-process-of-hitting-assessments-and-s-c-for-baseball-players-with-jeff-leach.mp3",
+    "published_at": "Wed, 20 Jan 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-7164391",
+    "title": "Episode #135 Gena Bradshaw: Beyond the Barbell- How Coaches Can Better Handle the Psychological Component of Athletic Development",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/7164391-episode-135-gena-bradshaw-beyond-the-barbell-how-coaches-can-better-handle-the-psychological-component-of-athletic-development",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/7164391-episode-135-gena-bradshaw-beyond-the-barbell-how-coaches-can-better-handle-the-psychological-component-of-athletic-development.mp3",
+    "published_at": "Wed, 13 Jan 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-7150123",
+    "title": "Episode #134 Kyle Boddy: Weighted Balls, Player Development, Business and Everything In-Between",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/7150123-episode-134-kyle-boddy-weighted-balls-player-development-business-and-everything-in-between",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/7150123-episode-134-kyle-boddy-weighted-balls-player-development-business-and-everything-in-between.mp3",
+    "published_at": "Wed, 06 Jan 2021 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-7057579",
+    "title": "Episode #133 Q&A (Contrast Training, Balancing Private and Team Training and Components You Can Add to an Assessment)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/7057579-episode-133-q-a-contrast-training-balancing-private-and-team-training-and-components-you-can-add-to-an-assessment",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/7057579-episode-133-q-a-contrast-training-balancing-private-and-team-training-and-components-you-can-add-to-an-assessment.mp3",
+    "published_at": "Wed, 30 Dec 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-6871115",
+    "title": "Episode #132 Q&A (Testing Protocol, Getting Your Business Started, Planning a Weekly Training Schedule and More!)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/6871115-episode-132-q-a-testing-protocol-getting-your-business-started-planning-a-weekly-training-schedule-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/6871115-episode-132-q-a-testing-protocol-getting-your-business-started-planning-a-weekly-training-schedule-and-more.mp3",
+    "published_at": "Wed, 16 Dec 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-6759877",
+    "title": "Episode #131 The New Data Behind Loaded Sprint Training for Acceleration with Ken Clark",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/6759877-episode-131-the-new-data-behind-loaded-sprint-training-for-acceleration-with-ken-clark",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/6759877-episode-131-the-new-data-behind-loaded-sprint-training-for-acceleration-with-ken-clark.mp3",
+    "published_at": "Wed, 09 Dec 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-6647509",
+    "title": "Episode #130 Programming and Training Driven by Principles of Movement with Greg Lehmann",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/6647509-episode-130-programming-and-training-driven-by-principles-of-movement-with-greg-lehmann",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/6647509-episode-130-programming-and-training-driven-by-principles-of-movement-with-greg-lehmann.mp3",
+    "published_at": "Wed, 02 Dec 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-6542848",
+    "title": "Episode #129 Strength and Conditioning, Speed Training and Athletic Development with Deerick Smith",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/6542848-episode-129-strength-and-conditioning-speed-training-and-athletic-development-with-deerick-smith",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/6542848-episode-129-strength-and-conditioning-speed-training-and-athletic-development-with-deerick-smith.mp3",
+    "published_at": "Wed, 25 Nov 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-6431167",
+    "title": "Episode #128 The Importance of Breakfast, Supplementation and Guiding Yourself Through Effective Nutritional Programming with Julian Lo Casto",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/6431167-episode-128-the-importance-of-breakfast-supplementation-and-guiding-yourself-through-effective-nutritional-programming-with-julian-lo-casto",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/6431167-episode-128-the-importance-of-breakfast-supplementation-and-guiding-yourself-through-effective-nutritional-programming-with-julian-lo-casto.mp3",
+    "published_at": "Wed, 18 Nov 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-6318103",
+    "title": "Episode #127 Entrepreneurship, Fitness and Building a Business with Des Pfeifer",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/6318103-episode-127-entrepreneurship-fitness-and-building-a-business-with-des-pfeifer",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/6318103-episode-127-entrepreneurship-fitness-and-building-a-business-with-des-pfeifer.mp3",
+    "published_at": "Wed, 11 Nov 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-6212986",
+    "title": "Episode #126 Creating Quality Relationships with Athletes and Sport Coaches to Enhance Strength and Conditioning with Matt Aldred",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/6212986-episode-126-creating-quality-relationships-with-athletes-and-sport-coaches-to-enhance-strength-and-conditioning-with-matt-aldred",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/6212986-episode-126-creating-quality-relationships-with-athletes-and-sport-coaches-to-enhance-strength-and-conditioning-with-matt-aldred.mp3",
+    "published_at": "Wed, 04 Nov 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-6171481",
+    "title": "Episode #125 Meathead Monday: Power Isn’t One-Dimensional and Our Implementation of Medicine Balls in Training It Shouldn’t Be Either",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/6171481-episode-125-meathead-monday-power-isn-t-one-dimensional-and-our-implementation-of-medicine-balls-in-training-it-shouldn-t-be-either",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/6171481-episode-125-meathead-monday-power-isn-t-one-dimensional-and-our-implementation-of-medicine-balls-in-training-it-shouldn-t-be-either.mp3",
+    "published_at": "Mon, 02 Nov 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-6097981",
+    "title": "Episode #124 Speed Training and Sprinting for Team-Sport Athletes with Dan Pfaff",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/6097981-episode-124-speed-training-and-sprinting-for-team-sport-athletes-with-dan-pfaff",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/6097981-episode-124-speed-training-and-sprinting-for-team-sport-athletes-with-dan-pfaff.mp3",
+    "published_at": "Wed, 28 Oct 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-6004612",
+    "title": "Episode #123 The State of NFL Injuries in 2020, Building a Coaching Career and Guiding Elite Athletes with Bobby Stroupe",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/6004612-episode-123-the-state-of-nfl-injuries-in-2020-building-a-coaching-career-and-guiding-elite-athletes-with-bobby-stroupe",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/6004612-episode-123-the-state-of-nfl-injuries-in-2020-building-a-coaching-career-and-guiding-elite-athletes-with-bobby-stroupe.mp3",
+    "published_at": "Fri, 23 Oct 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5953132",
+    "title": "Episode #122 Meathead Monday: How I Use Intensive and Extensive Plyometrics",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5953132-episode-122-meathead-monday-how-i-use-intensive-and-extensive-plyometrics",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5953132-episode-122-meathead-monday-how-i-use-intensive-and-extensive-plyometrics.mp3",
+    "published_at": "Mon, 19 Oct 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5847223",
+    "title": "Episode #121 Building Rapport Amongst All Areas of Athletic Performance and Various Intricacies of Speed Development with Brendan Thompson",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5847223-episode-121-building-rapport-amongst-all-areas-of-athletic-performance-and-various-intricacies-of-speed-development-with-brendan-thompson",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5847223-episode-121-building-rapport-amongst-all-areas-of-athletic-performance-and-various-intricacies-of-speed-development-with-brendan-thompson.mp3",
+    "published_at": "Wed, 14 Oct 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5847073",
+    "title": "Episode #120 Meathead Monday: Using the Force-Velocity Curve to Build Rotational Power and Building a Training Cycle",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5847073-episode-120-meathead-monday-using-the-force-velocity-curve-to-build-rotational-power-and-building-a-training-cycle",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5847073-episode-120-meathead-monday-using-the-force-velocity-curve-to-build-rotational-power-and-building-a-training-cycle.mp3",
+    "published_at": "Mon, 12 Oct 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5734891",
+    "title": "Episode #119 Strength and Conditioning Essentials for Baseball Players with Angelo Gingerelli",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5734891-episode-119-strength-and-conditioning-essentials-for-baseball-players-with-angelo-gingerelli",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5734891-episode-119-strength-and-conditioning-essentials-for-baseball-players-with-angelo-gingerelli.mp3",
+    "published_at": "Wed, 07 Oct 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5734816",
+    "title": "Episode #118 Meathead Monday: My Take on Conjugate Programming, Verkhoshansky and Louie Simmons (Everything You Need to Know)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5734816-episode-118-meathead-monday-my-take-on-conjugate-programming-verkhoshansky-and-louie-simmons-everything-you-need-to-know",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5734816-episode-118-meathead-monday-my-take-on-conjugate-programming-verkhoshansky-and-louie-simmons-everything-you-need-to-know.mp3",
+    "published_at": "Mon, 05 Oct 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5628064",
+    "title": "Episode #117 Business, The \"Basics,\" and Building Strength with Tony Gentilcore",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5628064-episode-117-business-the-basics-and-building-strength-with-tony-gentilcore",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5628064-episode-117-business-the-basics-and-building-strength-with-tony-gentilcore.mp3",
+    "published_at": "Wed, 30 Sep 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5628103",
+    "title": "Episode #116 Meathead Monday: Q&A (Pre-game Warm-ups, Balancing a Minimum Effective Dose Mentality While Pushing Athletes, Drop-step vs. Crossover Step and More!)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5628103-episode-116-meathead-monday-q-a-pre-game-warm-ups-balancing-a-minimum-effective-dose-mentality-while-pushing-athletes-drop-step-vs-crossover-step-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5628103-episode-116-meathead-monday-q-a-pre-game-warm-ups-balancing-a-minimum-effective-dose-mentality-while-pushing-athletes-drop-step-vs-crossover-step-and-more.mp3",
+    "published_at": "Mon, 28 Sep 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5528581",
+    "title": "Episode #115 Mastering Speed Training with Team-Sport Athletes with Mike Whiteman",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5528581-episode-115-mastering-speed-training-with-team-sport-athletes-with-mike-whiteman",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5528581-episode-115-mastering-speed-training-with-team-sport-athletes-with-mike-whiteman.mp3",
+    "published_at": "Wed, 23 Sep 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5526451",
+    "title": "Episode #114 Meathead Monday: Q&A (Overcoming Isometrics, In-Season Training Guidelines and Training without Experience)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5526451-episode-114-meathead-monday-q-a-overcoming-isometrics-in-season-training-guidelines-and-training-without-experience",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5526451-episode-114-meathead-monday-q-a-overcoming-isometrics-in-season-training-guidelines-and-training-without-experience.mp3",
+    "published_at": "Mon, 21 Sep 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5424964",
+    "title": "Episode #113 Metrics, Measurement and How Measurement Technology is Changing Sports and Strength and Conditioning with Tyler Scaturro of Pocket Radar",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5424964-episode-113-metrics-measurement-and-how-measurement-technology-is-changing-sports-and-strength-and-conditioning-with-tyler-scaturro-of-pocket-radar",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5424964-episode-113-metrics-measurement-and-how-measurement-technology-is-changing-sports-and-strength-and-conditioning-with-tyler-scaturro-of-pocket-radar.mp3",
+    "published_at": "Wed, 16 Sep 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5424187",
+    "title": "Episode #112 Meathead Monday: Q&A (Proper Structure to Build Strength Movements, Lessons Learned to Help Young Strength Coaches and The Importance of Reasoning in Decision Making)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5424187-episode-112-meathead-monday-q-a-proper-structure-to-build-strength-movements-lessons-learned-to-help-young-strength-coaches-and-the-importance-of-reasoning-in-decision-making",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5424187-episode-112-meathead-monday-q-a-proper-structure-to-build-strength-movements-lessons-learned-to-help-young-strength-coaches-and-the-importance-of-reasoning-in-decision-making.mp3",
+    "published_at": "Mon, 14 Sep 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5357956",
+    "title": "Episode #111 Navigating \"In-Season,\" Training and How to Prioritize Strength and Speed with Kevin Cronin",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5357956-episode-111-navigating-in-season-training-and-how-to-prioritize-strength-and-speed-with-kevin-cronin",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5357956-episode-111-navigating-in-season-training-and-how-to-prioritize-strength-and-speed-with-kevin-cronin.mp3",
+    "published_at": "Wed, 09 Sep 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5254024",
+    "title": "Episode #110 Decision Based Programming Based on Individual Needs and Pitching Development with Lennon Richards",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5254024-episode-110-decision-based-programming-based-on-individual-needs-and-pitching-development-with-lennon-richards",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5254024-episode-110-decision-based-programming-based-on-individual-needs-and-pitching-development-with-lennon-richards.mp3",
+    "published_at": "Wed, 02 Sep 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5215270",
+    "title": "Episode #109 Meathead Monday: The Fundamentals of Good Acceleration Mechanics (ft. Fernando Tatis Jr.)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5215270-episode-109-meathead-monday-the-fundamentals-of-good-acceleration-mechanics-ft-fernando-tatis-jr",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5215270-episode-109-meathead-monday-the-fundamentals-of-good-acceleration-mechanics-ft-fernando-tatis-jr.mp3",
+    "published_at": "Mon, 31 Aug 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5115178",
+    "title": "Episode #108 Connecting all Areas Involved with Athlete Performance and Preparing Athletes for Sport with Tampa Bay Buccaneers Head of S&C Anthony Piroli",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5115178-episode-108-connecting-all-areas-involved-with-athlete-performance-and-preparing-athletes-for-sport-with-tampa-bay-buccaneers-head-of-s-c-anthony-piroli",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5115178-episode-108-connecting-all-areas-involved-with-athlete-performance-and-preparing-athletes-for-sport-with-tampa-bay-buccaneers-head-of-s-c-anthony-piroli.mp3",
+    "published_at": "Wed, 26 Aug 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5114776",
+    "title": "Episode #107 Meathead Monday: The TRUE Meaning of Individualized Programming",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5114776-episode-107-meathead-monday-the-true-meaning-of-individualized-programming",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5114776-episode-107-meathead-monday-the-true-meaning-of-individualized-programming.mp3",
+    "published_at": "Mon, 24 Aug 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5054669",
+    "title": "Episode #106 Building Physical Tools to Help Hitters and EVERYTHING Hitting with Max Dutto",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5054669-episode-106-building-physical-tools-to-help-hitters-and-everything-hitting-with-max-dutto",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5054669-episode-106-building-physical-tools-to-help-hitters-and-everything-hitting-with-max-dutto.mp3",
+    "published_at": "Wed, 19 Aug 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-5024135",
+    "title": "Episode #105 Meathead Monday: 3 Things Strength Coaches Should NEVER Do and Mini Q&A",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/5024135-episode-105-meathead-monday-3-things-strength-coaches-should-never-do-and-mini-q-a",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/5024135-episode-105-meathead-monday-3-things-strength-coaches-should-never-do-and-mini-q-a.mp3",
+    "published_at": "Mon, 17 Aug 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4945496",
+    "title": "Episode #104 Foundations of Speed Training with Graham Eaton (@grahamsprints)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4945496-episode-104-foundations-of-speed-training-with-graham-eaton-grahamsprints",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4945496-episode-104-foundations-of-speed-training-with-graham-eaton-grahamsprints.mp3",
+    "published_at": "Wed, 12 Aug 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4929452",
+    "title": "Episode #103 Meathead Monday: Q&A (Programming Speed Days, Picking Exercises and Unstable Surface Training)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4929452-episode-103-meathead-monday-q-a-programming-speed-days-picking-exercises-and-unstable-surface-training",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4929452-episode-103-meathead-monday-q-a-programming-speed-days-picking-exercises-and-unstable-surface-training.mp3",
+    "published_at": "Mon, 10 Aug 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4823921",
+    "title": "Episode #102 Rugby Strength Coach: Enhancing On-Field Performance, Education, High Performance Model and More!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4823921-episode-102-rugby-strength-coach-enhancing-on-field-performance-education-high-performance-model-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4823921-episode-102-rugby-strength-coach-enhancing-on-field-performance-education-high-performance-model-and-more.mp3",
+    "published_at": "Wed, 05 Aug 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4823978",
+    "title": "Episode #101 Meathead Monday: Optimizing Sprinting and Speed Training for Team Sport Athletes",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4823978-episode-101-meathead-monday-optimizing-sprinting-and-speed-training-for-team-sport-athletes",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4823978-episode-101-meathead-monday-optimizing-sprinting-and-speed-training-for-team-sport-athletes.mp3",
+    "published_at": "Mon, 03 Aug 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4725827",
+    "title": "Episode #100 Speed, Skill and Agility Development for Athletes with Lee Taft",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4725827-episode-100-speed-skill-and-agility-development-for-athletes-with-lee-taft",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4725827-episode-100-speed-skill-and-agility-development-for-athletes-with-lee-taft.mp3",
+    "published_at": "Wed, 29 Jul 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4724702",
+    "title": "Episode #99 Meathead Monday: Optimizing Skill Development for Athletes and The Four Stages of Learning a Skill to Help Build Quality Movement",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4724702-episode-99-meathead-monday-optimizing-skill-development-for-athletes-and-the-four-stages-of-learning-a-skill-to-help-build-quality-movement",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4724702-episode-99-meathead-monday-optimizing-skill-development-for-athletes-and-the-four-stages-of-learning-a-skill-to-help-build-quality-movement.mp3",
+    "published_at": "Mon, 27 Jul 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4633505",
+    "title": "Episode #98 Building Nutritional Habits to Enhance High Performance with Challenger Strength Head of Nutrition Julian Lo Casto",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4633505-episode-98-building-nutritional-habits-to-enhance-high-performance-with-challenger-strength-head-of-nutrition-julian-lo-casto",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4633505-episode-98-building-nutritional-habits-to-enhance-high-performance-with-challenger-strength-head-of-nutrition-julian-lo-casto.mp3",
+    "published_at": "Wed, 22 Jul 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4633157",
+    "title": "Episode #97 Meathead Monday: Everything You Need to Know About Bringing Training Closer to Sport and When You Should Aim to Do It",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4633157-episode-97-meathead-monday-everything-you-need-to-know-about-bringing-training-closer-to-sport-and-when-you-should-aim-to-do-it",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4633157-episode-97-meathead-monday-everything-you-need-to-know-about-bringing-training-closer-to-sport-and-when-you-should-aim-to-do-it.mp3",
+    "published_at": "Mon, 20 Jul 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4567550",
+    "title": "Episode #96 All Elements (Mechanical AND Strength and Conditioning) of Building Hitters with Carlton Salters",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4567550-episode-96-all-elements-mechanical-and-strength-and-conditioning-of-building-hitters-with-carlton-salters",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4567550-episode-96-all-elements-mechanical-and-strength-and-conditioning-of-building-hitters-with-carlton-salters.mp3",
+    "published_at": "Wed, 15 Jul 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4548590",
+    "title": "Episode #95 Meathead Monday: Importance of Sprinting for ALL Athletes, Improving Vertical Jumps and MORE",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4548590-episode-95-meathead-monday-importance-of-sprinting-for-all-athletes-improving-vertical-jumps-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4548590-episode-95-meathead-monday-importance-of-sprinting-for-all-athletes-improving-vertical-jumps-and-more.mp3",
+    "published_at": "Mon, 13 Jul 2020 11:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4466315",
+    "title": "Episode #94 Everything Sports Performance with UMass Director of Sports Performance Matt Shadeed",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4466315-episode-94-everything-sports-performance-with-umass-director-of-sports-performance-matt-shadeed",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4466315-episode-94-everything-sports-performance-with-umass-director-of-sports-performance-matt-shadeed.mp3",
+    "published_at": "Wed, 08 Jul 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4449560",
+    "title": "Episode #93 Meathead Monday: How to Effectively Train Speed AND Strength Together",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4449560-episode-93-meathead-monday-how-to-effectively-train-speed-and-strength-together",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4449560-episode-93-meathead-monday-how-to-effectively-train-speed-and-strength-together.mp3",
+    "published_at": "Mon, 06 Jul 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4387673",
+    "title": "Episode #92 Agility, Speed Training and Building Well-Rounded Athletes with Sports Performance Coach Adam Menner",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4387673-episode-92-agility-speed-training-and-building-well-rounded-athletes-with-sports-performance-coach-adam-menner",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4387673-episode-92-agility-speed-training-and-building-well-rounded-athletes-with-sports-performance-coach-adam-menner.mp3",
+    "published_at": "Wed, 01 Jul 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4353152",
+    "title": "Episode #91 Meathead Monday: What to Look for When Trying to Find a GOOD Strength Coach",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4353152-episode-91-meathead-monday-what-to-look-for-when-trying-to-find-a-good-strength-coach",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4353152-episode-91-meathead-monday-what-to-look-for-when-trying-to-find-a-good-strength-coach.mp3",
+    "published_at": "Mon, 29 Jun 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4297061",
+    "title": "Episode #90 Building Explosive Lateral Movement and Fielding Tips with San Francisco Giants Bench Coach Kai Correa",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4297061-episode-90-building-explosive-lateral-movement-and-fielding-tips-with-san-francisco-giants-bench-coach-kai-correa",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4297061-episode-90-building-explosive-lateral-movement-and-fielding-tips-with-san-francisco-giants-bench-coach-kai-correa.mp3",
+    "published_at": "Wed, 24 Jun 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4206278",
+    "title": "Episode #89 A Look at My Programming Process and Ideal Methods for Program Individualization for Athletes",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4206278-episode-89-a-look-at-my-programming-process-and-ideal-methods-for-program-individualization-for-athletes",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4206278-episode-89-a-look-at-my-programming-process-and-ideal-methods-for-program-individualization-for-athletes.mp3",
+    "published_at": "Wed, 17 Jun 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4172537",
+    "title": "Episode #88 Meathead Monday: Velocity Based Training- Let's Not Freak out Over a Bar Speed Sensor. Look Beyond the Surface",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4172537-episode-88-meathead-monday-velocity-based-training-let-s-not-freak-out-over-a-bar-speed-sensor-look-beyond-the-surface",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4172537-episode-88-meathead-monday-velocity-based-training-let-s-not-freak-out-over-a-bar-speed-sensor-look-beyond-the-surface.mp3",
+    "published_at": "Mon, 15 Jun 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4098089",
+    "title": "Episode #87 Co-Founder of Cressey Sports Performance Pete Dupuis",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4098089-episode-87-co-founder-of-cressey-sports-performance-pete-dupuis",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4098089-episode-87-co-founder-of-cressey-sports-performance-pete-dupuis.mp3",
+    "published_at": "Wed, 10 Jun 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4081646",
+    "title": "Episode #86 Meathead Monday: Q&A (Significance of certain deadlift variations, Certification advice, S&C for youth athletes, conjugate programming adjustments & MORE!)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4081646-episode-86-meathead-monday-q-a-significance-of-certain-deadlift-variations-certification-advice-s-c-for-youth-athletes-conjugate-programming-adjustments-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4081646-episode-86-meathead-monday-q-a-significance-of-certain-deadlift-variations-certification-advice-s-c-for-youth-athletes-conjugate-programming-adjustments-more.mp3",
+    "published_at": "Mon, 08 Jun 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-4021472",
+    "title": "Episode #85 Effective Collaboration Between Sport and Strength Coaches with Chad Martin and Drew Watts",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/4021472-episode-85-effective-collaboration-between-sport-and-strength-coaches-with-chad-martin-and-drew-watts",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/4021472-episode-85-effective-collaboration-between-sport-and-strength-coaches-with-chad-martin-and-drew-watts.mp3",
+    "published_at": "Wed, 03 Jun 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3990761",
+    "title": "Episode #84 Meathead Monday: Q&A (Ordering speed, strength and skill work in programming, force-velocity profiling, combining HIIT and resistance training and MORE!)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3990761-episode-84-meathead-monday-q-a-ordering-speed-strength-and-skill-work-in-programming-force-velocity-profiling-combining-hiit-and-resistance-training-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3990761-episode-84-meathead-monday-q-a-ordering-speed-strength-and-skill-work-in-programming-force-velocity-profiling-combining-hiit-and-resistance-training-and-more.mp3",
+    "published_at": "Mon, 01 Jun 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3937322",
+    "title": "Episode #83 Jason Spray: Reducing Soft Tissue Injuries After Long Quarantine Layoffs, Programming Plyometrics and How Sport and Strength Coaches Can Work Together to Maximize Skill and Conditioning Work",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3937322-episode-83-jason-spray-reducing-soft-tissue-injuries-after-long-quarantine-layoffs-programming-plyometrics-and-how-sport-and-strength-coaches-can-work-together-to-maximize-skill-and-conditioning-work",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3937322-episode-83-jason-spray-reducing-soft-tissue-injuries-after-long-quarantine-layoffs-programming-plyometrics-and-how-sport-and-strength-coaches-can-work-together-to-maximize-skill-and-conditioning-work.mp3",
+    "published_at": "Wed, 27 May 2020 12:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3832892",
+    "title": "Episode #82 Tony Holler Talks all Things Speed, Sprinting Fast to Get Fast, Energy Systems for Team-Sport Athletes and More!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3832892-episode-82-tony-holler-talks-all-things-speed-sprinting-fast-to-get-fast-energy-systems-for-team-sport-athletes-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3832892-episode-82-tony-holler-talks-all-things-speed-sprinting-fast-to-get-fast-energy-systems-for-team-sport-athletes-and-more.mp3",
+    "published_at": "Wed, 20 May 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3797267",
+    "title": "Episode #81 Meathead Monday: Q&A (Resisted Sprints and How to Utilize Contrast Training, Energy System Training Based on Sport, Sprint Mechanics Basics and MORE!)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3797267-episode-81-meathead-monday-q-a-resisted-sprints-and-how-to-utilize-contrast-training-energy-system-training-based-on-sport-sprint-mechanics-basics-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3797267-episode-81-meathead-monday-q-a-resisted-sprints-and-how-to-utilize-contrast-training-energy-system-training-based-on-sport-sprint-mechanics-basics-and-more.mp3",
+    "published_at": "Mon, 18 May 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3735551",
+    "title": "Episode #80 St. Louis Blues Head of Sports Performance Eric Renaghan",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3735551-episode-80-st-louis-blues-head-of-sports-performance-eric-renaghan",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3735551-episode-80-st-louis-blues-head-of-sports-performance-eric-renaghan.mp3",
+    "published_at": "Wed, 13 May 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3703097",
+    "title": "Episode #79 Meathead Monday: Q&A (When to program sprints, \"footwork,\" upper body sprint mechanics, in-season programming advice & MORE!)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3703097-episode-79-meathead-monday-q-a-when-to-program-sprints-footwork-upper-body-sprint-mechanics-in-season-programming-advice-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3703097-episode-79-meathead-monday-q-a-when-to-program-sprints-footwork-upper-body-sprint-mechanics-in-season-programming-advice-more.mp3",
+    "published_at": "Mon, 11 May 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3644518",
+    "title": "Episode #78 New York Yankees Major League Catching Coach Tanner Swanson",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3644518-episode-78-new-york-yankees-major-league-catching-coach-tanner-swanson",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3644518-episode-78-new-york-yankees-major-league-catching-coach-tanner-swanson.mp3",
+    "published_at": "Wed, 06 May 2020 09:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3604477",
+    "title": "Episode #77 Meathead Monday: Q&A (Effective core training, programming for groups, improving change of direction ability, force-velocity assessment and more!)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3604477-episode-77-meathead-monday-q-a-effective-core-training-programming-for-groups-improving-change-of-direction-ability-force-velocity-assessment-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3604477-episode-77-meathead-monday-q-a-effective-core-training-programming-for-groups-improving-change-of-direction-ability-force-velocity-assessment-and-more.mp3",
+    "published_at": "Mon, 04 May 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3546160",
+    "title": "Episode #76 Navigating Remote Programming Effectively for Athletes and Coaches and Training Athletes from Home with Erica Suter",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3546160-episode-76-navigating-remote-programming-effectively-for-athletes-and-coaches-and-training-athletes-from-home-with-erica-suter",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3546160-episode-76-navigating-remote-programming-effectively-for-athletes-and-coaches-and-training-athletes-from-home-with-erica-suter.mp3",
+    "published_at": "Wed, 29 Apr 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3519055",
+    "title": "Episode #75 Meathead Monday: The Surface Doesn’t Move in Sport and it Shouldn’t When You Train Either",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3519055-episode-75-meathead-monday-the-surface-doesn-t-move-in-sport-and-it-shouldn-t-when-you-train-either",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3519055-episode-75-meathead-monday-the-surface-doesn-t-move-in-sport-and-it-shouldn-t-when-you-train-either.mp3",
+    "published_at": "Mon, 27 Apr 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3455491",
+    "title": "Episode #74 Philadelphia Phillies Pitching Coordinator and Driveline Assistant Director of Pitching Bill Hezel",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3455491-episode-74-philadelphia-phillies-pitching-coordinator-and-driveline-assistant-director-of-pitching-bill-hezel",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3455491-episode-74-philadelphia-phillies-pitching-coordinator-and-driveline-assistant-director-of-pitching-bill-hezel.mp3",
+    "published_at": "Wed, 22 Apr 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3422686",
+    "title": "Episode #73 Meathead Monday: Will Improving My Squat Make Me Faster or a Better Athlete?",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3422686-episode-73-meathead-monday-will-improving-my-squat-make-me-faster-or-a-better-athlete",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3422686-episode-73-meathead-monday-will-improving-my-squat-make-me-faster-or-a-better-athlete.mp3",
+    "published_at": "Mon, 20 Apr 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.017837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3362308",
+    "title": "Episode #72 Skill Acquisition, Creating Effective Training Environments and Bridging the Gap between S&C and Sport with Tyler Yearby",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3362308-episode-72-skill-acquisition-creating-effective-training-environments-and-bridging-the-gap-between-s-c-and-sport-with-tyler-yearby",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3362308-episode-72-skill-acquisition-creating-effective-training-environments-and-bridging-the-gap-between-s-c-and-sport-with-tyler-yearby.mp3",
+    "published_at": "Wed, 15 Apr 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3335026",
+    "title": "Episode #71 Meathead Monday: Quarantine Training Tips Part #2 and Adaptations vs. Variations (Featuring Kevin Poppe)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3335026-episode-71-meathead-monday-quarantine-training-tips-part-2-and-adaptations-vs-variations-featuring-kevin-poppe",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3335026-episode-71-meathead-monday-quarantine-training-tips-part-2-and-adaptations-vs-variations-featuring-kevin-poppe.mp3",
+    "published_at": "Mon, 13 Apr 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3263761",
+    "title": "Episode #70 University of South Carolina Director of Sports Performance Billy Anderson",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3263761-episode-70-university-of-south-carolina-director-of-sports-performance-billy-anderson",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3263761-episode-70-university-of-south-carolina-director-of-sports-performance-billy-anderson.mp3",
+    "published_at": "Wed, 08 Apr 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3247216",
+    "title": "Episode #69 Meathead Monday: Building Your \"First Step.\"",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3247216-episode-69-meathead-monday-building-your-first-step",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3247216-episode-69-meathead-monday-building-your-first-step.mp3",
+    "published_at": "Mon, 06 Apr 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3195094",
+    "title": "Episode #68 Strength Training, Pitching and Sports Performance with Ben Brewster",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3195094-episode-68-strength-training-pitching-and-sports-performance-with-ben-brewster",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3195094-episode-68-strength-training-pitching-and-sports-performance-with-ben-brewster.mp3",
+    "published_at": "Wed, 01 Apr 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3166375",
+    "title": "Episode #67 Meathead Monday: Quarantine Training Tips",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3166375-episode-67-meathead-monday-quarantine-training-tips",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3166375-episode-67-meathead-monday-quarantine-training-tips.mp3",
+    "published_at": "Mon, 30 Mar 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3114634",
+    "title": "Episode #66 Principles of Strength and Conditioning with Texas Tech Football Associate Strength Coach Brandon Howard",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3114634-episode-66-principles-of-strength-and-conditioning-with-texas-tech-football-associate-strength-coach-brandon-howard",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3114634-episode-66-principles-of-strength-and-conditioning-with-texas-tech-football-associate-strength-coach-brandon-howard.mp3",
+    "published_at": "Wed, 25 Mar 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3088084",
+    "title": "Episode #65 Meathead Monday: When Do Returns From Strength Training \"Diminish,\" How We Can Tell and Tests to Determine Athlete Needs",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3088084-episode-65-meathead-monday-when-do-returns-from-strength-training-diminish-how-we-can-tell-and-tests-to-determine-athlete-needs",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3088084-episode-65-meathead-monday-when-do-returns-from-strength-training-diminish-how-we-can-tell-and-tests-to-determine-athlete-needs.mp3",
+    "published_at": "Mon, 23 Mar 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-3041860",
+    "title": "Episode #64 The Science of Acceleration and Sprinting with Ken Clark",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/3041860-episode-64-the-science-of-acceleration-and-sprinting-with-ken-clark",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/3041860-episode-64-the-science-of-acceleration-and-sprinting-with-ken-clark.mp3",
+    "published_at": "Wed, 18 Mar 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2974336",
+    "title": "Episode #63 Epic Q&A: Gaining \"Good,\" Weight, Keys to Building Speed, Core Training, \"Sport Specific,\" Training, Conditioning and More!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2974336-episode-63-epic-q-a-gaining-good-weight-keys-to-building-speed-core-training-sport-specific-training-conditioning-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2974336-episode-63-epic-q-a-gaining-good-weight-keys-to-building-speed-core-training-sport-specific-training-conditioning-and-more.mp3",
+    "published_at": "Wed, 11 Mar 2020 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2907748",
+    "title": "Episode #62 Using Technology to Improve Movement Efficiency and Understanding Biomechanics with Driveline's Anthony Brady",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2907748-episode-62-using-technology-to-improve-movement-efficiency-and-understanding-biomechanics-with-driveline-s-anthony-brady",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2907748-episode-62-using-technology-to-improve-movement-efficiency-and-understanding-biomechanics-with-driveline-s-anthony-brady.mp3",
+    "published_at": "Wed, 04 Mar 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2838967",
+    "title": "Episode #61 Strategies for Creating Healthy, High Performing Athletes with Former Eagles and Chiefs Athletic Trainer Aaron Borgmann",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2838967-episode-61-strategies-for-creating-healthy-high-performing-athletes-with-former-eagles-and-chiefs-athletic-trainer-aaron-borgmann",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2838967-episode-61-strategies-for-creating-healthy-high-performing-athletes-with-former-eagles-and-chiefs-athletic-trainer-aaron-borgmann.mp3",
+    "published_at": "Wed, 26 Feb 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2778007",
+    "title": "Episode #60 Everything Sprinting and Building Blazing Speed with Altis Sprint Coach Chidi Enyia",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2778007-episode-60-everything-sprinting-and-building-blazing-speed-with-altis-sprint-coach-chidi-enyia",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2778007-episode-60-everything-sprinting-and-building-blazing-speed-with-altis-sprint-coach-chidi-enyia.mp3",
+    "published_at": "Wed, 19 Feb 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2719774",
+    "title": "Episode #59 Effective Core Training and the Future of the High Performance Model in Sports Performance with Bob Alejo",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2719774-episode-59-effective-core-training-and-the-future-of-the-high-performance-model-in-sports-performance-with-bob-alejo",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2719774-episode-59-effective-core-training-and-the-future-of-the-high-performance-model-in-sports-performance-with-bob-alejo.mp3",
+    "published_at": "Wed, 12 Feb 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2660902",
+    "title": "Episode #58 The Evolution of Sports Development, Strength Training and Baseball with Eric Sim",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2660902-episode-58-the-evolution-of-sports-development-strength-training-and-baseball-with-eric-sim",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2660902-episode-58-the-evolution-of-sports-development-strength-training-and-baseball-with-eric-sim.mp3",
+    "published_at": "Wed, 05 Feb 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2604283",
+    "title": "Episode #57 Becoming a Success in Strength and Conditioning, Research vs. Experience and the Importance of Sprinting and In-Season Training with Mike Boyle",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2604283-episode-57-becoming-a-success-in-strength-and-conditioning-research-vs-experience-and-the-importance-of-sprinting-and-in-season-training-with-mike-boyle",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2604283-episode-57-becoming-a-success-in-strength-and-conditioning-research-vs-experience-and-the-importance-of-sprinting-and-in-season-training-with-mike-boyle.mp3",
+    "published_at": "Wed, 29 Jan 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2534446",
+    "title": "Episode #56 The Evolution of Strength Training and the Importance of Testing and Tracking Progress for Development with Xan Barksdale",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2534446-episode-56-the-evolution-of-strength-training-and-the-importance-of-testing-and-tracking-progress-for-development-with-xan-barksdale",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2534446-episode-56-the-evolution-of-strength-training-and-the-importance-of-testing-and-tracking-progress-for-development-with-xan-barksdale.mp3",
+    "published_at": "Wed, 22 Jan 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2490706",
+    "title": "Episode #55 The New Frontier of Developing Strong, Powerful and Effective Rotational Athletes and Pitchers with Rob Hill and Eric Jagers",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2490706-episode-55-the-new-frontier-of-developing-strong-powerful-and-effective-rotational-athletes-and-pitchers-with-rob-hill-and-eric-jagers",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2490706-episode-55-the-new-frontier-of-developing-strong-powerful-and-effective-rotational-athletes-and-pitchers-with-rob-hill-and-eric-jagers.mp3",
+    "published_at": "Wed, 15 Jan 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2434403",
+    "title": "Episode #54 Importance of Strength and Conditioning in Athletic Development with Tampa Bay Rays Catcher Erik Ostberg",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2434403-episode-54-importance-of-strength-and-conditioning-in-athletic-development-with-tampa-bay-rays-catcher-erik-ostberg",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2434403-episode-54-importance-of-strength-and-conditioning-in-athletic-development-with-tampa-bay-rays-catcher-erik-ostberg.mp3",
+    "published_at": "Wed, 08 Jan 2020 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2378636",
+    "title": "Episode #53 Assessing The Current State of Strength and Conditioning with Kurt Hester of Louisiana Tech Football PLUS Bonus Q&A",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2378636-episode-53-assessing-the-current-state-of-strength-and-conditioning-with-kurt-hester-of-louisiana-tech-football-plus-bonus-q-a",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2378636-episode-53-assessing-the-current-state-of-strength-and-conditioning-with-kurt-hester-of-louisiana-tech-football-plus-bonus-q-a.mp3",
+    "published_at": "Wed, 01 Jan 2020 12:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2333333",
+    "title": "Episode #52 The Evolving Landscape of Baseball, Training, Pitching and Social Media with Pitching Ninja and Dallas Braden",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2333333-episode-52-the-evolving-landscape-of-baseball-training-pitching-and-social-media-with-pitching-ninja-and-dallas-braden",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2333333-episode-52-the-evolving-landscape-of-baseball-training-pitching-and-social-media-with-pitching-ninja-and-dallas-braden.mp3",
+    "published_at": "Mon, 23 Dec 2019 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2305253",
+    "title": "Episode #51 The Future of Technology in Training and Tracking Metrics with Exsurgo CEO Greg Lutton",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2305253-episode-51-the-future-of-technology-in-training-and-tracking-metrics-with-exsurgo-ceo-greg-lutton",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2305253-episode-51-the-future-of-technology-in-training-and-tracking-metrics-with-exsurgo-ceo-greg-lutton.mp3",
+    "published_at": "Wed, 18 Dec 2019 05:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2260247",
+    "title": "Episode #50 Keeping it Simple to Build Strong, Fast and Powerful Athletes with Zach Even-Esh",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2260247-episode-50-keeping-it-simple-to-build-strong-fast-and-powerful-athletes-with-zach-even-esh",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2260247-episode-50-keeping-it-simple-to-build-strong-fast-and-powerful-athletes-with-zach-even-esh.mp3",
+    "published_at": "Wed, 11 Dec 2019 01:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2210546",
+    "title": "Episode #49 A Practical Approach to Addressing Multiple Needs in a Training Program",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2210546-episode-49-a-practical-approach-to-addressing-multiple-needs-in-a-training-program",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2210546-episode-49-a-practical-approach-to-addressing-multiple-needs-in-a-training-program.mp3",
+    "published_at": "Wed, 04 Dec 2019 01:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2177213",
+    "title": "Episode #48 Building Speed with New York Yankees Base-Running Coordinator Matt Talarico",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2177213-episode-48-building-speed-with-new-york-yankees-base-running-coordinator-matt-talarico",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2177213-episode-48-building-speed-with-new-york-yankees-base-running-coordinator-matt-talarico.mp3",
+    "published_at": "Wed, 27 Nov 2019 01:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2110206",
+    "title": "Episode #47 MLB Head Strength Coach Jim Malone of The Pittsburgh Pirates",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2110206-episode-47-mlb-head-strength-coach-jim-malone-of-the-pittsburgh-pirates",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2110206-episode-47-mlb-head-strength-coach-jim-malone-of-the-pittsburgh-pirates.mp3",
+    "published_at": "Wed, 20 Nov 2019 01:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2034705",
+    "title": "Episode #46 The Power of the Mind in Building the Body, Managing Training Volume, and Recruiting Motor Units to Make Explosive Athletes With Conor Harris",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2034705-episode-46-the-power-of-the-mind-in-building-the-body-managing-training-volume-and-recruiting-motor-units-to-make-explosive-athletes-with-conor-harris",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2034705-episode-46-the-power-of-the-mind-in-building-the-body-managing-training-volume-and-recruiting-motor-units-to-make-explosive-athletes-with-conor-harris.mp3",
+    "published_at": "Wed, 13 Nov 2019 01:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-2005084",
+    "title": "Episode #45 Q&A/Twitter Grab Bag: Proprioception, How to Program Sprints, Proper Jump Training, Building Strength, Agility Training and More!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/2005084-episode-45-q-a-twitter-grab-bag-proprioception-how-to-program-sprints-proper-jump-training-building-strength-agility-training-and-more",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/2005084-episode-45-q-a-twitter-grab-bag-proprioception-how-to-program-sprints-proper-jump-training-building-strength-agility-training-and-more.mp3",
+    "published_at": "Wed, 06 Nov 2019 01:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1957687",
+    "title": "Episode #44 Achieving Desired Training Adaptations and Simple Ways to Transfer Training to Sport with Arkansas Baseball Strength Coach Blaine Kinsley",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1957687-episode-44-achieving-desired-training-adaptations-and-simple-ways-to-transfer-training-to-sport-with-arkansas-baseball-strength-coach-blaine-kinsley",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1957687-episode-44-achieving-desired-training-adaptations-and-simple-ways-to-transfer-training-to-sport-with-arkansas-baseball-strength-coach-blaine-kinsley.mp3",
+    "published_at": "Wed, 30 Oct 2019 01:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1916324",
+    "title": "Episode #43 Sounding off on Some of the Hottest and Most Controversial Topics in Strength and Conditioning with Joe Aratari",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1916324-episode-43-sounding-off-on-some-of-the-hottest-and-most-controversial-topics-in-strength-and-conditioning-with-joe-aratari",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1916324-episode-43-sounding-off-on-some-of-the-hottest-and-most-controversial-topics-in-strength-and-conditioning-with-joe-aratari.mp3",
+    "published_at": "Wed, 23 Oct 2019 01:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1860886",
+    "title": "Episode #42 Studies vs. Coaching Experience, VBT, Hypertrophy and Key Training Principles for Athletes with Alan Bishop",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1860886-episode-42-studies-vs-coaching-experience-vbt-hypertrophy-and-key-training-principles-for-athletes-with-alan-bishop",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1860886-episode-42-studies-vs-coaching-experience-vbt-hypertrophy-and-key-training-principles-for-athletes-with-alan-bishop.mp3",
+    "published_at": "Wed, 16 Oct 2019 01:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1823737",
+    "title": "Episode #41 Creating Synergy Between Quality Movement, Strength and Speed with Zach Dechant",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1823737-episode-41-creating-synergy-between-quality-movement-strength-and-speed-with-zach-dechant",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1823737-episode-41-creating-synergy-between-quality-movement-strength-and-speed-with-zach-dechant.mp3",
+    "published_at": "Wed, 09 Oct 2019 01:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1801705",
+    "title": "Episode #40 Building Harmony Between Strength and Speed and Everything Strength and Conditioning with Kevin Poppe",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1801705-episode-40-building-harmony-between-strength-and-speed-and-everything-strength-and-conditioning-with-kevin-poppe",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1801705-episode-40-building-harmony-between-strength-and-speed-and-everything-strength-and-conditioning-with-kevin-poppe.mp3",
+    "published_at": "Wed, 02 Oct 2019 01:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1761661",
+    "title": "Episode #39 Evaluating Prospects and Growing Baseball Through Social Media with Emily Waldon of The Athletic and Baseball America",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1761661-episode-39-evaluating-prospects-and-growing-baseball-through-social-media-with-emily-waldon-of-the-athletic-and-baseball-america",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1761661-episode-39-evaluating-prospects-and-growing-baseball-through-social-media-with-emily-waldon-of-the-athletic-and-baseball-america.mp3",
+    "published_at": "Wed, 25 Sep 2019 01:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1726891",
+    "title": "Episode #38 Building Training Programs and Athletes Through a Principles Based Approach with Daniel Flahie and Cody Hughes",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1726891-episode-38-building-training-programs-and-athletes-through-a-principles-based-approach-with-daniel-flahie-and-cody-hughes",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1726891-episode-38-building-training-programs-and-athletes-through-a-principles-based-approach-with-daniel-flahie-and-cody-hughes.mp3",
+    "published_at": "Wed, 18 Sep 2019 01:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1689289",
+    "title": "Episode #37 Q&A: \"Balance,\" Training, In-Season Programming & Life After College Sports (ft. Brandon Deger)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1689289-episode-37-q-a-balance-training-in-season-programming-life-after-college-sports-ft-brandon-deger",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1689289-episode-37-q-a-balance-training-in-season-programming-life-after-college-sports-ft-brandon-deger.mp3",
+    "published_at": "Wed, 11 Sep 2019 01:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1647169",
+    "title": "Episode #36 Keys to Developing Strong & Powerful Athletes with DJ Edwards and Bill Miller",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1647169-episode-36-keys-to-developing-strong-powerful-athletes-with-dj-edwards-and-bill-miller",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1647169-episode-36-keys-to-developing-strong-powerful-athletes-with-dj-edwards-and-bill-miller.mp3",
+    "published_at": "Wed, 04 Sep 2019 01:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1612918",
+    "title": "Episode #35 Applying Principles of Sport Science to Strength and Speed Training with Max Schmarzo (Strong by Science)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1612918-episode-35-applying-principles-of-sport-science-to-strength-and-speed-training-with-max-schmarzo-strong-by-science",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1612918-episode-35-applying-principles-of-sport-science-to-strength-and-speed-training-with-max-schmarzo-strong-by-science.mp3",
+    "published_at": "Wed, 28 Aug 2019 01:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1580713",
+    "title": "Episode #34 Building Rotational Power & Velocity For Pitchers and Throwers (Rob Hill & Steffan Jones)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1580713-episode-34-building-rotational-power-velocity-for-pitchers-and-throwers-rob-hill-steffan-jones",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1580713-episode-34-building-rotational-power-velocity-for-pitchers-and-throwers-rob-hill-steffan-jones.mp3",
+    "published_at": "Wed, 21 Aug 2019 01:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1547758",
+    "title": "Episode #33 Foundations of Blazing Speed with Joseph Potts (Top Speed LLC.)",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1547758-episode-33-foundations-of-blazing-speed-with-joseph-potts-top-speed-llc",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1547758-episode-33-foundations-of-blazing-speed-with-joseph-potts-top-speed-llc.mp3",
+    "published_at": "Wed, 14 Aug 2019 01:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1514410",
+    "title": "Episode #32 Strength, Speed, Movement and Finding Quality Professionals for Athletes with Stephen Osterer, Terry Phillips and Kyle Rogers",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1514410-episode-32-strength-speed-movement-and-finding-quality-professionals-for-athletes-with-stephen-osterer-terry-phillips-and-kyle-rogers",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1514410-episode-32-strength-speed-movement-and-finding-quality-professionals-for-athletes-with-stephen-osterer-terry-phillips-and-kyle-rogers.mp3",
+    "published_at": "Wed, 07 Aug 2019 01:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1484284",
+    "title": "Episode #31 Building a Business and Coaching in the Private Sector with Michael Richards",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1484284-episode-31-building-a-business-and-coaching-in-the-private-sector-with-michael-richards",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1484284-episode-31-building-a-business-and-coaching-in-the-private-sector-with-michael-richards.mp3",
+    "published_at": "Tue, 30 Jul 2019 21:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1450378",
+    "title": "Episode #30 Q&A: When to Use VBT, Thoughts on CrossFit, and Sprinting Quick Fixes",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1450378-episode-30-q-a-when-to-use-vbt-thoughts-on-crossfit-and-sprinting-quick-fixes",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1450378-episode-30-q-a-when-to-use-vbt-thoughts-on-crossfit-and-sprinting-quick-fixes.mp3",
+    "published_at": "Tue, 23 Jul 2019 21:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1419433",
+    "title": "Episode #29 Building Foundations for Elite Athletes and Running a Training Business with Erica Suter",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1419433-episode-29-building-foundations-for-elite-athletes-and-running-a-training-business-with-erica-suter",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1419433-episode-29-building-foundations-for-elite-athletes-and-running-a-training-business-with-erica-suter.mp3",
+    "published_at": "Tue, 16 Jul 2019 16:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1392676",
+    "title": "Episode #28 All Things Recruiting with Brian Scanlon",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1392676-episode-28-all-things-recruiting-with-brian-scanlon",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1392676-episode-28-all-things-recruiting-with-brian-scanlon.mp3",
+    "published_at": "Wed, 10 Jul 2019 09:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1363510",
+    "title": "Episode #27 Former MLB Reliever Eric O'Flaherty",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1363510-episode-27-former-mlb-reliever-eric-o-flaherty",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1363510-episode-27-former-mlb-reliever-eric-o-flaherty.mp3",
+    "published_at": "Wed, 03 Jul 2019 11:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1347760",
+    "title": "Episode #26 How Strength and Speed Training Can Improve Your Conditioning",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1347760-episode-26-how-strength-and-speed-training-can-improve-your-conditioning",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1347760-episode-26-how-strength-and-speed-training-can-improve-your-conditioning.mp3",
+    "published_at": "Sun, 30 Jun 2019 16:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1318450",
+    "title": "Episode #25 Hitting and Building a Coaching Career with Trey Hannam",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1318450-episode-25-hitting-and-building-a-coaching-career-with-trey-hannam",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1318450-episode-25-hitting-and-building-a-coaching-career-with-trey-hannam.mp3",
+    "published_at": "Sun, 23 Jun 2019 14:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1302340",
+    "title": "Episode #24 Everything You Need to Know About Speed",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1302340-episode-24-everything-you-need-to-know-about-speed",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1302340-episode-24-everything-you-need-to-know-about-speed.mp3",
+    "published_at": "Wed, 19 Jun 2019 09:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1245815",
+    "title": "Episode #23 Velocity Based Training with Pat Robles",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1245815-episode-23-velocity-based-training-with-pat-robles",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1245815-episode-23-velocity-based-training-with-pat-robles.mp3",
+    "published_at": "Thu, 06 Jun 2019 14:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1220546",
+    "title": "Episode #22 Hitting, Lifting and Life Lessons with Les Nozzle",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1220546-episode-22-hitting-lifting-and-life-lessons-with-les-nozzle",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1220546-episode-22-hitting-lifting-and-life-lessons-with-les-nozzle.mp3",
+    "published_at": "Fri, 31 May 2019 15:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1184273",
+    "title": "Episode #21 UTSA Softball Hitting Coach Carlton Salters: Understanding Hitting and Movement",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1184273-episode-21-utsa-softball-hitting-coach-carlton-salters-understanding-hitting-and-movement",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1184273-episode-21-utsa-softball-hitting-coach-carlton-salters-understanding-hitting-and-movement.mp3",
+    "published_at": "Thu, 23 May 2019 14:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1157312",
+    "title": "Episode #20 Everything you Need to Know About College Recruiting with Recruiting Coordinator Ryan McGee",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1157312-episode-20-everything-you-need-to-know-about-college-recruiting-with-recruiting-coordinator-ryan-mcgee",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1157312-episode-20-everything-you-need-to-know-about-college-recruiting-with-recruiting-coordinator-ryan-mcgee.mp3",
+    "published_at": "Fri, 17 May 2019 12:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1113224",
+    "title": "Episode #19 Detroit Lions Tight End Jerome Cunningham",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1113224-episode-19-detroit-lions-tight-end-jerome-cunningham",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1113224-episode-19-detroit-lions-tight-end-jerome-cunningham.mp3",
+    "published_at": "Thu, 09 May 2019 16:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1084382",
+    "title": "Episode #18 Kyle Rogers, Head Strength Coach at Driveline Baseball",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1084382-episode-18-kyle-rogers-head-strength-coach-at-driveline-baseball",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1084382-episode-18-kyle-rogers-head-strength-coach-at-driveline-baseball.mp3",
+    "published_at": "Fri, 03 May 2019 14:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1056798",
+    "title": "Episode #17 Strength and Speed Training Principles with Jason Spray",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1056798-episode-17-strength-and-speed-training-principles-with-jason-spray",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1056798-episode-17-strength-and-speed-training-principles-with-jason-spray.mp3",
+    "published_at": "Fri, 26 Apr 2019 13:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1050074",
+    "title": "Episode #16 Why I'm Against Unstable Surface Training as a Means of \"Sport Specific,\" Training",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1050074-episode-16-why-i-m-against-unstable-surface-training-as-a-means-of-sport-specific-training",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1050074-episode-16-why-i-m-against-unstable-surface-training-as-a-means-of-sport-specific-training.mp3",
+    "published_at": "Mon, 22 Apr 2019 14:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1026901",
+    "title": "Episode #15 Life of Independent Baseball, Trying to Get Signed, Hitting Data and Analytics and Training with TJ Ward",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1026901-episode-15-life-of-independent-baseball-trying-to-get-signed-hitting-data-and-analytics-and-training-with-tj-ward",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1026901-episode-15-life-of-independent-baseball-trying-to-get-signed-hitting-data-and-analytics-and-training-with-tj-ward.mp3",
+    "published_at": "Fri, 05 Apr 2019 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1017150",
+    "title": "Episode #14 Contrast Training: How it Can Help Build Speed, Power and Explosiveness",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1017150-episode-14-contrast-training-how-it-can-help-build-speed-power-and-explosiveness",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1017150-episode-14-contrast-training-how-it-can-help-build-speed-power-and-explosiveness.mp3",
+    "published_at": "Sat, 30 Mar 2019 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-1006102",
+    "title": "Episode #13 Relative Strength: Making Sure Weight Gain Contributes to Strength, Power and Speed",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/1006102-episode-13-relative-strength-making-sure-weight-gain-contributes-to-strength-power-and-speed",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/1006102-episode-13-relative-strength-making-sure-weight-gain-contributes-to-strength-power-and-speed.mp3",
+    "published_at": "Fri, 22 Mar 2019 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-990906",
+    "title": "Episode #12 A Rant From a Concerned Strength Coach Regarding Team-Sport Conditioning",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/990906-episode-12-a-rant-from-a-concerned-strength-coach-regarding-team-sport-conditioning",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/990906-episode-12-a-rant-from-a-concerned-strength-coach-regarding-team-sport-conditioning.mp3",
+    "published_at": "Mon, 11 Mar 2019 00:00:00 -0400",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-977475",
+    "title": "Episode #11 Why \"Sport Specific Training,\" is The Most Overused, Oversold, & Misunderstood Phrase in Sports Performance Training",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/977475-episode-11-why-sport-specific-training-is-the-most-overused-oversold-misunderstood-phrase-in-sports-performance-training",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/977475-episode-11-why-sport-specific-training-is-the-most-overused-oversold-misunderstood-phrase-in-sports-performance-training.mp3",
+    "published_at": "Fri, 01 Mar 2019 16:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-968773",
+    "title": "Episode #10 Dr. Terry Phillips of Driveline Baseball",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/968773-episode-10-dr-terry-phillips-of-driveline-baseball",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/968773-episode-10-dr-terry-phillips-of-driveline-baseball.mp3",
+    "published_at": "Sat, 23 Feb 2019 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-958194",
+    "title": "Episode #9 Recruiting, Travel/College Baseball, Using Data & Business with Hasani Whitfield",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/958194-episode-9-recruiting-travel-college-baseball-using-data-business-with-hasani-whitfield",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/958194-episode-9-recruiting-travel-college-baseball-using-data-business-with-hasani-whitfield.mp3",
+    "published_at": "Fri, 15 Feb 2019 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-950002",
+    "title": "Episode #8 Building an INSANE Vertical Jump!",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/950002-episode-8-building-an-insane-vertical-jump",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/950002-episode-8-building-an-insane-vertical-jump.mp3",
+    "published_at": "Fri, 08 Feb 2019 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-940781",
+    "title": "Episode #7 Q&A: Energy Systems, Rotational Movements, In-Season Lifting and Strength Assessments",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/940781-episode-7-q-a-energy-systems-rotational-movements-in-season-lifting-and-strength-assessments",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/940781-episode-7-q-a-energy-systems-rotational-movements-in-season-lifting-and-strength-assessments.mp3",
+    "published_at": "Fri, 01 Feb 2019 14:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-931546",
+    "title": "Episode #6 Interview With Rob Friedman \"@Pitchingninja\"",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/931546-episode-6-interview-with-rob-friedman-pitchingninja",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/931546-episode-6-interview-with-rob-friedman-pitchingninja.mp3",
+    "published_at": "Thu, 24 Jan 2019 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-925083",
+    "title": "Episode #5 Why The 60-yard Dash is a Useless Test For Measuring \"Baseball Speed.\"",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/925083-episode-5-why-the-60-yard-dash-is-a-useless-test-for-measuring-baseball-speed",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/925083-episode-5-why-the-60-yard-dash-is-a-useless-test-for-measuring-baseball-speed.mp3",
+    "published_at": "Fri, 18 Jan 2019 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-916464",
+    "title": "Episode #4 How to Build an Effective Training Program",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/916464-episode-4-how-to-build-an-effective-training-program",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/916464-episode-4-how-to-build-an-effective-training-program.mp3",
+    "published_at": "Fri, 11 Jan 2019 00:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-908019",
+    "title": "Episode #3 Five Things Your College Education WON'T Teach You About Business",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/908019-episode-3-five-things-your-college-education-won-t-teach-you-about-business",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/908019-episode-3-five-things-your-college-education-won-t-teach-you-about-business.mp3",
+    "published_at": "Thu, 03 Jan 2019 13:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-901680",
+    "title": "Episode #2 Building The Fundamental Movement Patterns",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/901680-episode-2-building-the-fundamental-movement-patterns",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/901680-episode-2-building-the-fundamental-movement-patterns.mp3",
+    "published_at": "Thu, 27 Dec 2018 12:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
+  },
+  {
+    "episode_id": "Buzzsprout-896638",
+    "title": "Episode #1 Introduction and Conjugate Programming",
+    "episode_url": "https://www.buzzsprout.com/238054/episodes/896638-episode-1-introduction-and-conjugate-programming",
+    "audio_url": "https://www.buzzsprout.com/238054/episodes/896638-episode-1-introduction-and-conjugate-programming.mp3",
+    "published_at": "Thu, 20 Dec 2018 15:00:00 -0500",
+    "state": "DISCOVERED",
+    "last_checked": "2026-02-18T21:46:30.018837+00:00"
   }
 ]

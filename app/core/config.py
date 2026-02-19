@@ -4,6 +4,11 @@ from pathlib import Path
 
 load_dotenv()
 
+# Whsiper
+MODEL_SIZE = "tiny.en"
+DEVICE = "cpu"
+COMPUTE_TYPE = "int8"
+
 # LLM
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 GEMINI_EMBED_MODEL = "models/gemini-embedding-001"

@@ -10,3 +10,6 @@ __pycache__/
 dist
 build
 .env
+*mp3
+app/data/raw/blogs
+app/data/raw/podcasts

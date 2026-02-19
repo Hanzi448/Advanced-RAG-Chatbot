@@ -7,31 +7,11 @@ from urllib.parse import urljoin, urlparse
 import feedparser
 import logging
 
+from app.ingestion.storage import load_registry, save_registry
 from app.core.config import BLOGS_URL, BLOGS_URL_PATH, PODCASTS_URL, PODCASTS_URL_PATH
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
-def load_registry(path) -> dict:
-    if path.exists():
-        if str(path).lower() == str(BLOGS_URL_PATH).lower():
-            with open(path, "r", encoding="utf-8") as f:
-                # For multiple URLs (dicts) in a list
-                return {item["blog_id"]: item for item in json.load(f)} 
-                #For Single URL (dict) without list
-                # return {json.load(f)['blog_id']}
-        else:
-            with open(path, "r", encoding="utf-8") as f:
-                # For multiple URLs (dicts) in a list
-                return {item["episode_id"]: item for item in json.load(f)} 
-                # For Single url (dict) without list
-                # return {json.load(f)['episode_id']}
-    return {}
-
-def save_registry(path, registry: dict):
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(list(registry.values()), f, ensure_ascii=False, indent=2)
 
 def normalize_url(url: str) -> str:
     parsed = urlparse(url)
@@ -53,7 +33,7 @@ def filter_article(path: str) -> bool:
 
 def fetch_rss_feed():
     feed = feedparser.parse(PODCASTS_URL)
-    if feed.boze:
+    if feed.bozo:
         raise RuntimeError(f"Failed to fetch RSS feed")
 
     return feed
@@ -150,7 +130,7 @@ def podcast_fetcher():
             "title": title,
             "episode_url": episode_url,
             "audio_url": audio_url,
-            "published": published,
+            "published_at": published,
             "state": "DISCOVERED",
             "last_checked": datetime.now(timezone.utc).isoformat()
         }
@@ -160,5 +140,11 @@ def podcast_fetcher():
     save_registry(PODCASTS_URL_PATH, registry)
     logger.info(f"Total episodes discovered: {discovered}")
 
-if __name__ == "__main__":
+# Optional: A unified fetcher that can be scheduled to run periodically
+def fetcher():
     blog_fetcher()
+    podcast_fetcher()
+
+if __name__ == "__main__":
+    # blog_fetcher()
+    podcast_fetcher()
