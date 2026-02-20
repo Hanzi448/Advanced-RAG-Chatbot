@@ -14,3 +14,4 @@ build
 /app/data/raw/blogs
 /app/data/raw/podcasts
 /app/data/processed/*
+/app/data/embeddings/*

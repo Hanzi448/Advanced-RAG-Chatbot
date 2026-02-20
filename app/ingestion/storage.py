@@ -1,7 +1,6 @@
 import json
 from app.core.config import BLOGS_URL_PATH
 
-
 def load_registry(path) -> dict:
     if path.exists():
         if str(path).lower() == str(BLOGS_URL_PATH).lower():
